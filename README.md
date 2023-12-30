@@ -105,9 +105,11 @@ We present the comparative list of LLMs below. Traning cost is presented as (pet
 
 # Developer Tools
 
-1. 
+The Forbes present a technology stack leveraging avrious tools, models and frameworks for developing Generative AI.
 
+![Screenshot 2023-12-30 115145](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/286697e9-6458-470f-a6ab-d679751ef186)
 
+ 
 # Chatbots
 
 1. ChatGPT - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
