@@ -150,8 +150,8 @@ The common theme among these emerging tools is their ability to abstract complex
 
 The classical ML workflow involves a series of meticulously defined steps, beginning with problem definition and data preparation, followed by feature engineering, data splitting, model selection, training, hyperparameter tuning, and evaluation. Once the model demonstrates satisfactory performance, it is deployed into a production environment, where it is continuously monitored and maintained. This process is characterized by its emphasis on manual intervention at each stage, requiring substantial expertise in data science and machine learning. The workflow is iterative, with feedback from model monitoring being used to refine and improve the model, particularly in response to challenges like data drift.
 
+![Uploading 1698349719667.jpeg…]()
 
-![1698349719667](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/1400bdb6-01d2-4bb5-aa1f-4f898e5ae280)
 
 **LLM Workflow**
 
@@ -254,3 +254,4 @@ As of December, 2023, we show the most used tool sets in generative AI developme
 14. https://www.linkedin.com/pulse/emerging-architectures-large-language-models-data-science-dojo/
 15. https://www.insightpartners.com/ideas/llmops-mlops-what-you-need-to-know/
 16. https://deci.ai/blog/retrieval-augmented-generation-using-langchain/
+17. https://www.linkedin.com/pulse/impact-llms-evolving-data-ml-stack-apoorva-pandhi-gnxcc/
