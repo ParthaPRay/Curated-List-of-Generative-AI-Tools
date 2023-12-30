@@ -12,7 +12,7 @@ Functioning as autoregressive language models, LLMs process input text and itera
 
 Prominent examples of LLMs include OpenAI's GPT series (such as GPT-3.5 and GPT-4 used in ChatGPT), Google's PaLM (utilized in Bard), Meta's LLaMA, along with BLOOM, Ernie 3.0 Titan, and Anthropic's Claude 2.
 
-We present the comparative list of LLMs below (Traning cost is presented as (petaFLOP/day)).
+We present the comparative list of LLMs below. Traning cost is presented as (petaFLOP/day). For the training cost column, 1 petaFLOP-day = 1 petaFLOP/sec × 1 day = 8.64E19 FLOP.
 
 
 | Model Name                    | Release Year   | Developer                     | #Parameters  | Corpus size                                                      | Training cost  | License                 | Comments                                                                                                                                                                                |
