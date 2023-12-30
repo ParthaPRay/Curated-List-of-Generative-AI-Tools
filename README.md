@@ -125,6 +125,13 @@ We present the comparative list of LLMs below. Traning cost is presented as (pet
 
 
 
+# Evaluating Models
+
+Evaluating a generative AI model involves a multifaceted assessment that encompasses several critical aspects. Firstly, assessing the quality of the model involves scrutinizing the accuracy and relevance of its generated output. However, with the increasing complexity of these models, their behavior can sometimes become unpredictable, potentially leading to outputs that may not always be reliable. Secondly, evaluating the model's robustness is essential, focusing on its ability to handle a wide range of inputs effectively. A pressing concern in the evaluation process is the presence of biases in AI models, which can inadvertently surface due to the inherent biases in the human-generated data used for training. Addressing these biases and navigating the ethical considerations surrounding AI technology are formidable challenges that the AI community must actively address and mitigate.
+
+![model-evaluation](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/276edc60-3c19-44ea-abb7-3dab27757119)
+
+
 # Emerging LLM App Stack
 
 The emerging tech stack for LLMs represents a rapidly evolving ecosystem of tools and platforms that empower developers to build and deploy LLM-based applications. With the continuous growth and innovation in the LLM field, it's crucial to highlight the tooling available to complement these models.
@@ -139,11 +146,38 @@ The common theme among these emerging tools is their ability to abstract complex
 ![Screenshot 2023-12-30 121743](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/933871b9-30a3-45a7-8b7a-c6f271d0a1f7)
 
 
-# Evaluating Models
+# LLMops Landscape
 
-Evaluating a generative AI model involves a multifaceted assessment that encompasses several critical aspects. Firstly, assessing the quality of the model involves scrutinizing the accuracy and relevance of its generated output. However, with the increasing complexity of these models, their behavior can sometimes become unpredictable, potentially leading to outputs that may not always be reliable. Secondly, evaluating the model's robustness is essential, focusing on its ability to handle a wide range of inputs effectively. A pressing concern in the evaluation process is the presence of biases in AI models, which can inadvertently surface due to the inherent biases in the human-generated data used for training. Addressing these biases and navigating the ethical considerations surrounding AI technology are formidable challenges that the AI community must actively address and mitigate.
+The landscape of Large Language Model Operations, commonly referred to as LLMops, is a dynamic and evolving realm, distinct from the more traditional Machine Learning Operations (MLops). LLMops involves a set of tools and infrastructure specifically tailored to the implementation of generative AI use cases. This distinction arises from the fundamental differences between generative AI and predictive AI applications.
 
-![model-evaluation](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/276edc60-3c19-44ea-abb7-3dab27757119)
+In MLops (Machine Learning Operations), the focus is on systems of prediction, where machine learning models perform objective-focused tasks, often providing recommendations, classifications, or predictions. On the other hand, LLMops pertains to systems of creation, where generative AI applications produce open-ended or qualitative content, such as generating marketing copy in a company's voice.
+
+Several factors differentiate MLops from LLMops:
+
+* **Transfer Learning:** Generative AI products often begin with pre-trained foundation models, which are then customized for specific use cases. This process is typically easier than creating predictive ML models from scratch, involving data gathering, annotation, training, and hyperparameter tuning.
+
+* **Compute Management:** Training and running large language models are computationally intensive tasks. LLMs, even when leveraging pre-trained models, demand significant computational resources for inference compared to predictive ML models.
+
+* **Feedback Loops:** Predictive ML models often produce clear performance metrics, making evaluation straightforward. In contrast, generative AI models produce qualitative output, which can be challenging to assess. Techniques like Reinforcement Learning from Human Feedback (RLHF) or reinforcement learning from AI feedback (RLAIF) are used to fine-tune generative models.
+
+Despite these differences, there are areas of convergence between LLMops and MLops in the enterprise context. Both share concerns related to data privacy, model governance, and model security. Ensuring data privacy and handling software code in prompts or fine-tuning LLMs require careful consideration. Model governance is challenging for both predictive ML and generative AI, as complex models are difficult to explain and track. Model security is crucial for protecting data sets and models from potential threats.
+
+The current LLMOps landscape includes various tools and solutions across categories like vector databases, prompt engineering, and model monitoring. Many of these tools have emerged recently, reflecting the growing interest in generative AI. Efficiency in inference infrastructure has become a critical differentiator, with solutions like Run:AI and Deci AI addressing compute optimization challenges.
+
+Areas warranting more focus in the LLMops ecosystem include privacy, model security, and model governance. Enterprises often face challenges in these aspects when deploying generative AI products, and building trust and reliability in LLMs will be a significant competitive advantage.
+
+In conclusion, the LLMops landscape is a rapidly evolving field with its own set of tools and considerations. While distinct from MLops, it shares common concerns and challenges in the enterprise context. As generative AI continues to gain traction, LLMops will play a crucial role in enabling the deployment of powerful AI capabilities. Existing players and startups are navigating this space to leverage their strengths and compete in the emerging generative AI landscape.
+
+![llmops-mlops-tech-stack-for-generative-ai](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/b38e5bc8-63c3-4df7-ac0c-9a6b3723d73c)
+
+
+![llmops-market-map-1](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/538d038d-a31e-4f2a-bd8c-a51684412dc5)
+
+
+
+
+
+
 
 
 # Developer Tools
@@ -184,3 +218,4 @@ As of December, 2023, we show the most used tool sets in generative AI developme
 12. https://www.analyticsvidhya.com/blog/2023/09/evaluation-of-generative-ai-models-and-search-use-case/
 13. https://blog.gopenai.com/a-deep-dive-into-a16z-emerging-llm-app-stack-playgrounds-and-app-hosting-bf2c9fe7cf18
 14. https://www.linkedin.com/pulse/emerging-architectures-large-language-models-data-science-dojo/
+15. https://www.insightpartners.com/ideas/llmops-mlops-what-you-need-to-know/
