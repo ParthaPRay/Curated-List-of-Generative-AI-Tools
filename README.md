@@ -125,6 +125,12 @@ We present the comparative list of LLMs below. Traning cost is presented as (pet
 
 
 
+# Evaluating Models
+
+Evaluating a generative AI model involves a multifaceted assessment that encompasses several critical aspects. Firstly, assessing the quality of the model involves scrutinizing the accuracy and relevance of its generated output. However, with the increasing complexity of these models, their behavior can sometimes become unpredictable, potentially leading to outputs that may not always be reliable. Secondly, evaluating the model's robustness is essential, focusing on its ability to handle a wide range of inputs effectively. A pressing concern in the evaluation process is the presence of biases in AI models, which can inadvertently surface due to the inherent biases in the human-generated data used for training. Addressing these biases and navigating the ethical considerations surrounding AI technology are formidable challenges that the AI community must actively address and mitigate.
+
+![model-evaluation](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/276edc60-3c19-44ea-abb7-3dab27757119)
+
 
 # Developer Tools
 
@@ -161,3 +167,4 @@ As of December, 2023, we show the most used tool sets in generative AI developme
 9. https://www.aitidbits.ai/p/most-used-tools
 10. https://clickup.com/blog/ai-tools/
 11. https://www.linkedin.com/pulse/aiaa-alternative-intelligence-alien-augmented-data-azamat-abdoullaev/
+12. https://www.analyticsvidhya.com/blog/2023/09/evaluation-of-generative-ai-models-and-search-use-case/
