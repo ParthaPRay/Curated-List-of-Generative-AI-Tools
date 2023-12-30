@@ -125,6 +125,20 @@ We present the comparative list of LLMs below. Traning cost is presented as (pet
 
 
 
+# Emerging LLM App Stack
+
+The emerging tech stack for LLMs represents a rapidly evolving ecosystem of tools and platforms that empower developers to build and deploy LLM-based applications. With the continuous growth and innovation in the LLM field, it's crucial to highlight the tooling available to complement these models.
+
+One essential component in the LLM app stack is "Playgrounds." Playgrounds serve as user-friendly interfaces that allow developers to experiment with LLM-based applications. They provide an entry point for individuals to interact with LLMs, such as generating text based on prompts or transcribing audio files. These browser-based interfaces often come equipped with the necessary resources, such as GPU access, making them accessible for experimentation.
+
+In terms of app hosting, developers have several options. Local hosting, while cost-effective during the development phase, is limited to individual use and may not scale well for production applications. Self-hosting offers more control over data privacy and application management but comes with significant GPU costs and quality considerations.
+
+Emerging app hosting products like Vercel, Steamship, Streamlit, and Modal are simplifying the deployment of LLM applications. Vercel, for instance, streamlines front-end deployment, allowing developers to quickly deploy AI apps using pre-built templates. Steamship focuses on building AI agents powered by LLMs for problem-solving and automation. Streamlit, an open-source Python library, enables developers to create web front-ends for LLM projects without prior front-end experience. Modal abstracts complexities related to cloud deployment, improving the feedback loop between local development and cloud execution.
+
+The common theme among these emerging tools is their ability to abstract complex technologies, allowing developers to focus on their code and applications. As the AI landscape evolves rapidly, these tools play a crucial role in reducing the time and effort required for building and deploying LLM applications, making them invaluable resources for developers in this dynamic field.
+![Screenshot 2023-12-30 121743](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/933871b9-30a3-45a7-8b7a-c6f271d0a1f7)
+
+
 # Evaluating Models
 
 Evaluating a generative AI model involves a multifaceted assessment that encompasses several critical aspects. Firstly, assessing the quality of the model involves scrutinizing the accuracy and relevance of its generated output. However, with the increasing complexity of these models, their behavior can sometimes become unpredictable, potentially leading to outputs that may not always be reliable. Secondly, evaluating the model's robustness is essential, focusing on its ability to handle a wide range of inputs effectively. A pressing concern in the evaluation process is the presence of biases in AI models, which can inadvertently surface due to the inherent biases in the human-generated data used for training. Addressing these biases and navigating the ethical considerations surrounding AI technology are formidable challenges that the AI community must actively address and mitigate.
@@ -168,3 +182,5 @@ As of December, 2023, we show the most used tool sets in generative AI developme
 10. https://clickup.com/blog/ai-tools/
 11. https://www.linkedin.com/pulse/aiaa-alternative-intelligence-alien-augmented-data-azamat-abdoullaev/
 12. https://www.analyticsvidhya.com/blog/2023/09/evaluation-of-generative-ai-models-and-search-use-case/
+13. https://blog.gopenai.com/a-deep-dive-into-a16z-emerging-llm-app-stack-playgrounds-and-app-hosting-bf2c9fe7cf18
+14. https://www.linkedin.com/pulse/emerging-architectures-large-language-models-data-science-dojo/
