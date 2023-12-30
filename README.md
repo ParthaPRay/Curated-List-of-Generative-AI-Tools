@@ -45,7 +45,7 @@ Generative AI is revolutionizing various sectors, offering a wide array of innov
 Each of these technologies contributes to the rapidly evolving landscape of generative AI, pushing the boundaries of what's possible and opening up new opportunities across various industries.
 
 
-# Models
+# Large-scale Language Models
 
 Large-scale language models (LLMs) are distinguished by their comprehensive language comprehension and generation abilities. These models are trained on vast data sets, learning billions of parameters, and require significant computational power for both training and operation. Typically structured as artificial neural networks, predominantly transformers, LLMs are trained through self-supervised and semi-supervised learning methods.
 
