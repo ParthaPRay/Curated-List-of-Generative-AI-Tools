@@ -12,10 +12,10 @@ Functioning as autoregressive language models, LLMs process input text and itera
 
 Prominent examples of LLMs include OpenAI's GPT series (such as GPT-3.5 and GPT-4 used in ChatGPT), Google's PaLM (utilized in Bard), Meta's LLaMA, along with BLOOM, Ernie 3.0 Titan, and Anthropic's Claude 2.
 
-We present the comparative list of LLMs below.
+We present the comparative list of LLMs below (Traning cost is presented as (petaFLOP/day)).
 
 
-| Name                    | Release date[a]   | Developer                     | Number of parameters[b]  | Corpus size                                                      | Training cost (petaFLOP-day) | License[c]                  | Notes                                                                                                                                                                                  |
+| Model Name                    | Release Year   | Developer                     | #Parameters  | Corpus size                                                      | Training cost  | License                 | Comments                                                                                                                                                                                |
 |-------------------------|-------------------|-------------------------------|--------------------------|------------------------------------------------------------------|------------------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GPT-1                   | Jun-18            | OpenAI                        | 117 million              |                                                                  |                              |                             | First GPT model, decoder-only transformer                                                                                                                                             |
 | BERT                    | Oct-18            | Google                        | 340 million        | 3.3 billion words                                          | 9                      | Apache 2.0             | An early and influential language model, but encoder-only and thus not built to be prompted or generative                                                                   |
