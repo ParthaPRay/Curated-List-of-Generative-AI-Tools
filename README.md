@@ -143,7 +143,21 @@ In terms of app hosting, developers have several options. Local hosting, while c
 Emerging app hosting products like Vercel, Steamship, Streamlit, and Modal are simplifying the deployment of LLM applications. Vercel, for instance, streamlines front-end deployment, allowing developers to quickly deploy AI apps using pre-built templates. Steamship focuses on building AI agents powered by LLMs for problem-solving and automation. Streamlit, an open-source Python library, enables developers to create web front-ends for LLM projects without prior front-end experience. Modal abstracts complexities related to cloud deployment, improving the feedback loop between local development and cloud execution.
 
 The common theme among these emerging tools is their ability to abstract complex technologies, allowing developers to focus on their code and applications. As the AI landscape evolves rapidly, these tools play a crucial role in reducing the time and effort required for building and deploying LLM applications, making them invaluable resources for developers in this dynamic field.
+
 ![Screenshot 2023-12-30 121743](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/933871b9-30a3-45a7-8b7a-c6f271d0a1f7)
+
+**ML Workflow**
+
+The classical ML workflow involves a series of meticulously defined steps, beginning with problem definition and data preparation, followed by feature engineering, data splitting, model selection, training, hyperparameter tuning, and evaluation. Once the model demonstrates satisfactory performance, it is deployed into a production environment, where it is continuously monitored and maintained. This process is characterized by its emphasis on manual intervention at each stage, requiring substantial expertise in data science and machine learning. The workflow is iterative, with feedback from model monitoring being used to refine and improve the model, particularly in response to challenges like data drift.
+
+
+![1698349719667](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/1400bdb6-01d2-4bb5-aa1f-4f898e5ae280)
+
+**LLM Workflow**
+
+In contrast, the LLM workflow, as exemplified by technologies like GPT-3, represents a shift towards utilizing pre-trained models. These models are accessible through REST API endpoints provided by organizations like OpenAI, allowing a wide range of users to leverage advanced ML capabilities without the need for extensive ML expertise. This approach democratizes access to powerful machine learning tools, enabling not just ML practitioners but also developers and less technical users to benefit from the models' capabilities. The LLM workflow is particularly notable for its real-time application, and architectures like Retrieval Augmented Generation (RAG) play a crucial role in maintaining information freshness and contextuality, thereby enhancing the models' effectiveness in tasks like question answering and summarization. This shift from building and training models from scratch to utilizing pre-trained models represents a significant transformation in the field of machine learning, broadening the scope and accessibility of these technologies.
+
+![1698348847518](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/0b223d7d-c35f-41a8-a841-fc76d4a55150)
 
 
 # LLMops Landscape
@@ -172,6 +186,26 @@ In conclusion, the LLMops landscape is a rapidly evolving field with its own set
 
 
 ![llmops-market-map-1](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/538d038d-a31e-4f2a-bd8c-a51684412dc5)
+
+
+
+
+# Retrieval Augmented Generation (RAG)
+
+
+Large Language Models (LLMs) like GPT-3 have revolutionized the field of natural language processing with their ability to generate human-like text. However, despite their impressive capabilities, these models have inherent limitations, particularly in accessing external, up-to-date information or specific data that is not within their training set. To address these challenges, the concept of Retrieval Augmented Generation (RAG) has been introduced. RAG combines the generative power of LLMs with the precision of a retrieval system. This approach significantly enhances the performance of LLMs, making them more contextually aware and factually accurate. In an era where AI is increasingly utilized across various fields, the accuracy and relevance of the information provided by these models are of paramount importance. RAG, therefore, emerges as a critical component in the evolution of AI, ensuring that interactions with these models are not only natural and human-like but also informative and reliable.
+
+Implementing a Retrieval Augmented Generation system involves integrating several key components, each contributing to the efficiency and effectiveness of the final system. The core element is the Large Language Model, which is responsible for generating human-like responses. Complementing this is the Vector Store, a specialized database that holds embeddings of textual data, enabling rapid and accurate information retrieval. The Vector Store Retriever acts as a search engine, fetching relevant documents by comparing vector similarities. Before any data can be stored or retrieved, it must be converted into a compatible format through an Embedder, which transforms text into vector representations. The process begins with a user's query or statement, captured by the Prompt, setting the stage for retrieval and generation. The Document Loader plays a crucial role in importing and processing large volumes of data, while the Document Chunker breaks this data into manageable segments. Finally, the User Input tool captures the initial query from the end-user, triggering the entire RAG process.
+
+![deci-langchain-rag-featured-1024x576](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/5ed36357-d62d-476c-acca-b63745364ec6)
+
+The RAG system is designed to augment LLMs with contextually relevant and factually accurate information, ensuring high-quality, relevant content generation. It comprises several subsystems, each fulfilling a specific function within the overall process. These subsystems are the Index, Retrieval, and Augment systems.
+
+* **Index System:** This is where the data preparation and organization occur. It involves loading and chunking documents, converting them into vector representations, and then storing these embeddings for future retrieval.
+Retrieval System: In this phase, the system fetches the most pertinent information in response to a user's query. It captures the query, transforms it into a vector, and then conducts a vector search to find the most relevant documents.
+* **Augment System:** This subsystem enhances the input prompt for the LLM with the retrieved context. It merges the initial prompt with the retrieved information, providing a rich and informed input for the LLM, which then generates an appropriate response.
+RAG systems represent a significant advancement in AI, merging the creative and intuitive aspects of generative models with the precision and knowledge base of retrieval systems. This synergy not only improves the quality of generated content but also extends the applicability of LLMs across a wider range of tasks, making them more practical and useful in real-world scenarios.
+
 
 
 
@@ -219,3 +253,4 @@ As of December, 2023, we show the most used tool sets in generative AI developme
 13. https://blog.gopenai.com/a-deep-dive-into-a16z-emerging-llm-app-stack-playgrounds-and-app-hosting-bf2c9fe7cf18
 14. https://www.linkedin.com/pulse/emerging-architectures-large-language-models-data-science-dojo/
 15. https://www.insightpartners.com/ideas/llmops-mlops-what-you-need-to-know/
+16. https://deci.ai/blog/retrieval-augmented-generation-using-langchain/
