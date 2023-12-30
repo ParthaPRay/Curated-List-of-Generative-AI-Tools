@@ -6,8 +6,12 @@ This repo contains the curated list of tools for generative AI
 ![1686648543214](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/694a63ef-fb30-4515-b206-67007b2560b1)
 
 
-# Models![1686648771444](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/78b8060b-849c-48bf-80a4-1b90b8e70637)
+![1686648771444](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/78b8060b-849c-48bf-80a4-1b90b8e70637)
 
+
+
+
+# Models
 
 Large-scale language models (LLMs) are distinguished by their comprehensive language comprehension and generation abilities. These models are trained on vast data sets, learning billions of parameters, and require significant computational power for both training and operation. Typically structured as artificial neural networks, predominantly transformers, LLMs are trained through self-supervised and semi-supervised learning methods.
 
