@@ -10,6 +10,40 @@ This repo contains the curated list of tools for generative AI
 
 
 
+# Innovations to be Fueled by Generative AI
+
+Generative AI is revolutionizing various sectors, offering a wide array of innovations and capabilities. Let's delve into each of the critical technologies you mentioned:
+
+* **Artificial General Intelligence (AGI):** This refers to a machine's ability to understand, learn, and apply intellectual skills at a level equal to or surpassing human intelligence. AGI remains a theoretical concept but represents the ultimate goal of many AI research endeavors.
+
+* **AI Engineering:** This is about creating a systematic approach to developing, maintaining, and supporting AI systems in enterprise environments. It ensures that AI applications are scalable, sustainable, and effectively integrated into existing business processes.
+
+* **Autonomic Systems:** These are systems capable of self-management, adapting to changes in their environment while maintaining their objectives. They are autonomous, learn from interactions, and make decisions based on their programming and experiences.
+
+* **Cloud AI Services:** These services provide tools for building AI models, APIs for existing services, and middleware support. They enable the development, deployment, and operation of machine learning models as cloud-based services, making AI more accessible and scalable.
+
+* **Composite AI:** This involves integrating various AI techniques to enhance learning efficiency and broaden the scope of knowledge representations. It addresses a wider range of business problems more effectively by combining different AI approaches.
+
+* **Computer Vision:** This technology focuses on interpreting and understanding visual information from the physical world. It involves capturing, processing, and analyzing images and videos to extract meaningful insights.
+
+* **Data-centric AI:** This approach emphasizes improving training data quality to enhance AI outcomes. It deals with data quality, privacy, and scalability, focusing on the data used in AI systems rather than just the algorithms.
+
+* **Edge AI:** This refers to AI systems implemented at the 'edge' of networks, such as in IoT devices, rather than centralized in cloud-based systems. It's crucial for real-time processing in applications like autonomous vehicles and medical diagnostics.
+
+* **Intelligent Applications:** These applications adapt and respond autonomously to interactions with people and other machines, learning from these interactions to improve their responses and actions.
+
+* **Model Operationalization (ModelOps):** This focuses on managing the entire lifecycle of AI models, including development, deployment, monitoring, and governance. It's essential for maintaining the effectiveness and integrity of AI systems.
+
+* **Operational AI Systems (OAISys):** These systems facilitate the orchestration, automation, and scaling of AI applications in enterprise settings, encompassing machine learning, deep neural networks, and generative AI.
+
+* **Prompt Engineering:** This involves crafting inputs for AI models to guide the responses they generate. It's particularly relevant for generative AI models where the input significantly influences the output.
+
+* **Smart Robots:** These are autonomous, often mobile robots equipped with AI, capable of performing physical tasks independently.
+
+* **Synthetic Data:** This is data generated through algorithms or simulations, used as an alternative to real-world data for training AI models. It's particularly useful in situations where real data is scarce, expensive, or sensitive.
+
+Each of these technologies contributes to the rapidly evolving landscape of generative AI, pushing the boundaries of what's possible and opening up new opportunities across various industries.
+
 
 # Models
 
@@ -93,5 +127,6 @@ We present the comparative list of LLMs below. Traning cost is presented as (pet
 5. https://aimagazine.com/top10/top-10-generative-ai-tools
 6. https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/
 7. https://www.forbes.com/sites/konstantinebuhler/2023/04/11/ai-50-2023-generative-ai-trends/?sh=3e21848d7c0e
-8. https://clickup.com/blog/ai-tools/
-9. https://www.linkedin.com/pulse/aiaa-alternative-intelligence-alien-augmented-data-azamat-abdoullaev/
+8. https://www.gartner.com/en/articles/what-s-new-in-artificial-intelligence-from-the-2023-gartner-hype-cycle
+9. https://clickup.com/blog/ai-tools/
+10. https://www.linkedin.com/pulse/aiaa-alternative-intelligence-alien-augmented-data-azamat-abdoullaev/
