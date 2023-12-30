@@ -109,6 +109,11 @@ The Forbes present a technology stack leveraging avrious tools, models and frame
 
 ![Screenshot 2023-12-30 115145](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/286697e9-6458-470f-a6ab-d679751ef186)
 
+As of December, 2023, we show the most used tool sets in generative AI development below.
+
+![52307a3c-6727-4ca5-a4da-208969e7b833_1944x1090](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/fc887bda-5341-4099-aebc-cd4170d41bdd)
+
+
  
 # Chatbots
 
@@ -130,5 +135,6 @@ The Forbes present a technology stack leveraging avrious tools, models and frame
 6. https://www.linkedin.com/pulse/generative-ai-landscape-2023-florian-belschner/
 7. https://www.forbes.com/sites/konstantinebuhler/2023/04/11/ai-50-2023-generative-ai-trends/?sh=3e21848d7c0e
 8. https://www.gartner.com/en/articles/what-s-new-in-artificial-intelligence-from-the-2023-gartner-hype-cycle
-9. https://clickup.com/blog/ai-tools/
-10. https://www.linkedin.com/pulse/aiaa-alternative-intelligence-alien-augmented-data-azamat-abdoullaev/
+9. https://www.aitidbits.ai/p/most-used-tools
+10. https://clickup.com/blog/ai-tools/
+11. https://www.linkedin.com/pulse/aiaa-alternative-intelligence-alien-augmented-data-azamat-abdoullaev/
