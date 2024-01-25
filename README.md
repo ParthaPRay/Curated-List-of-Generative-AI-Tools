@@ -49,6 +49,13 @@ https://github.com/SYSTRAN/faster-whisper
 
   https://github.com/deepset-ai/haystack
 
+  Example: https://youtu.be/QxIZk6qZxJM
+
+* **mergekit** is a toolkit for merging pre-trained language models. mergekit uses an out-of-core approach to perform unreasonably elaborate merges in resource-constrained situations.
+
+  https://github.com/cg123/mergekit
+
+* 
 
 
 
