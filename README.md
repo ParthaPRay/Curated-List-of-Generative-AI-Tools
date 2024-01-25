@@ -61,7 +61,7 @@ This repo contains the curated list of tools for generative AI
 
 * **Langchain**  is a framework for developing applications powered by language models.
 
-  ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/1cff5d44-2606-40c4-af14-779234fc618e)
+   ![299769486-1cff5d44-2606-40c4-af14-779234fc618e](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/edbe9568-a6e5-4b06-8d82-d3ac9fad6e2e)
 
   https://python.langchain.com/docs/get_started/introduction
 
