@@ -37,14 +37,18 @@ https://github.com/microsoft/TaskWeaver
 
    https://github.com/replicate/replicate-python
 
-* Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities:
-
- - Create and edit photos, videos, PDFs, etc.
- - Control a Chrome browser to perform research
- - Plot, clean, and analyze large datasets
+* **Open Interpreter** lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities:  Create and edit photos, videos, PDFs, etc., Control a Chrome browser to perform research,  Plot, clean, and analyze large datasets.
 
   https://github.com/KillianLucas/open-interpreter
-  
+
+  * **Faster Whisper** transcription with CTranslate2, faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
+    
+https://github.com/SYSTRAN/faster-whisper
+
+* End-to-End LLM orchestration **framework** to build customizable, production-ready LLM applications using pipelines. **Haystack** 
+
+  https://github.com/deepset-ai/haystack
+
 
 
 
@@ -259,8 +263,11 @@ RAG systems represent a significant advancement in AI, merging the creative and 
 
 
 
+# Hugging Face models on AWS AI Accelerators
 
+![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/2e608faf-7300-4842-9cd9-f341511ee0e4)
 
+Source: https://youtu.be/66JUlAA8nOU
 
 
 
