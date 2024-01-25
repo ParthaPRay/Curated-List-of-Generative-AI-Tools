@@ -67,6 +67,11 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/langchain-ai/langchain
 
+* **BentoML** is a framework for building reliable, scalable and cost-efficient AI applications. It comes with everything you need for model serving, application packaging, and production deployment.
+
+  https://github.com/bentoml/BentoML
+  
+  https://bentoml.com/
 
 
 # Rise of AI
