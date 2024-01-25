@@ -78,6 +78,9 @@ This repo contains the curated list of tools for generative AI
 
 * **BentoML** is a framework for building reliable, scalable and cost-efficient AI applications. It comes with everything you need for model serving, application packaging, and production deployment. It focuses on ML in production. By design, BentoML is agnostic to the experimentation platform and the model development environment. It is best fitted to manage your “finalized model”, sets of models that yield the best outcomes from your periodic training pipelines and are meant for running in production. BentoML integrates with MLflow natively. Users can not only port over models logged with MLflow Tracking to BentoML for high-performance model serving but also combine MLFlow projects and pipelines with BentoML’s model deployment workflow in an efficient manner.
 
+  ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/4b246394-fff0-445f-8da8-dd2c99a60975)
+
+
   https://github.com/bentoml/BentoML
   
   https://bentoml.com/
