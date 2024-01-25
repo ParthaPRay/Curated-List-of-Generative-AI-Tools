@@ -9,6 +9,17 @@ This repo contains the curated list of tools for generative AI
 ![1686648771444](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/78b8060b-849c-48bf-80a4-1b90b8e70637)
 
 
+# Tools
+
+* All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows **txtai**
+  ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/5472b5ce-3c8a-43c3-b09b-0e3da637b35c)
+   https://github.com/neuml/txtai,  neuml.github.io/txtai
+  
+* **AutoGen** is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks
+![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/d82bf4b3-3883-4cbe-8c18-1060c7c5140b)
+
+https://github.com/microsoft/autogen
+
 
 # Innovations to be Fueled by Generative AI
 
