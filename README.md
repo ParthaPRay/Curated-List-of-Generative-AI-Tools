@@ -12,6 +12,15 @@ This repo contains the curated list of tools for generative AI
 
 https://github.com/microsoft/autogen
 
+* A code-first agent framework for seamlessly planning and executing data analytics tasks **TaskWeaver**
+![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/93b605c3-b915-4d29-9d4e-2c5a1faad49b)
+
+https://github.com/microsoft/TaskWeaver
+
+
+
+
+
 
 
 # Rise of AI
