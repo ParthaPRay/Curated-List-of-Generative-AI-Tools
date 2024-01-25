@@ -18,6 +18,7 @@ https://github.com/microsoft/autogen
 https://github.com/microsoft/TaskWeaver
 
 * Discover, download, and run local LLMs **LM Studio**
+  
 ![299743016-bd1dc9a9-1d53-4d07-b441-7b85ddcd1702](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/07ef1e3e-6de0-41ec-8fde-15d700eb481c)
 
   https://lmstudio.ai/
