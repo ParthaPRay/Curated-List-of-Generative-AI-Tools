@@ -91,6 +91,21 @@ This repo contains the curated list of tools for generative AI
   
   https://www.kubeflow.org/
 
+* The **Triton Inference Server** provides an optimized cloud and edge inferencing solution. Triton Inference Server is an open source inference serving software that streamlines AI inferencing. Triton enables teams to deploy any AI model from multiple deep learning and machine learning frameworks, including TensorRT, TensorFlow, PyTorch, ONNX, OpenVINO, Python, RAPIDS FIL, and more. Triton Inference Server supports inference across cloud, data center, edge and embedded devices on NVIDIA GPUs, x86 and ARM CPU, or AWS Inferentia. Triton Inference Server delivers optimized performance for many query types, including real time, batched, ensembles and audio/video streaming. Triton inference Server is part of NVIDIA AI Enterprise, a software platform that accelerates the data science pipeline and streamlines the development and deployment of production AI.
+
+  https://github.com/triton-inference-server/server
+
+  https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html
+
+
+
+* **Ray** is an open-source unified compute framework that makes it easy to scale AI and Python workloads — from reinforcement learning to deep learning to tuning, and model serving.
+
+  https://github.com/ray-project/ray
+  
+  https://www.ray.io/
+
+
 # List of Curate List on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
