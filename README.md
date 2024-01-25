@@ -1,14 +1,6 @@
 # Curated-List-of-Generative-AI-Tools
 This repo contains the curated list of tools for generative AI
 
-# Rise of AI
-
-![1686648543214](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/694a63ef-fb30-4515-b206-67007b2560b1)
-
-
-![1686648771444](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/78b8060b-849c-48bf-80a4-1b90b8e70637)
-
-
 # Tools
 
 * All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows **txtai**
@@ -19,6 +11,16 @@ This repo contains the curated list of tools for generative AI
 ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/d82bf4b3-3883-4cbe-8c18-1060c7c5140b)
 
 https://github.com/microsoft/autogen
+
+
+
+# Rise of AI
+
+![1686648543214](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/694a63ef-fb30-4515-b206-67007b2560b1)
+
+
+![1686648771444](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/78b8060b-849c-48bf-80a4-1b90b8e70637)
+
 
 
 # Innovations to be Fueled by Generative AI
