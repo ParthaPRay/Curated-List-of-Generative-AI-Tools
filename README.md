@@ -11,12 +11,12 @@ This repo contains the curated list of tools for generative AI
 * **AutoGen** is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks
 ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/d82bf4b3-3883-4cbe-8c18-1060c7c5140b)
 
-https://github.com/microsoft/autogen
+   https://github.com/microsoft/autogen
 
 * A code-first agent framework for seamlessly planning and executing data analytics tasks **TaskWeaver**
 ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/93b605c3-b915-4d29-9d4e-2c5a1faad49b)
 
-https://github.com/microsoft/TaskWeaver
+  https://github.com/microsoft/TaskWeaver
 
 * Discover, download, and run local LLMs **LM Studio**
   
@@ -43,7 +43,7 @@ https://github.com/microsoft/TaskWeaver
 
 * **Faster Whisper** transcription with CTranslate2, faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
     
-https://github.com/SYSTRAN/faster-whisper
+  https://github.com/SYSTRAN/faster-whisper
 
 * End-to-End LLM orchestration **framework** to build customizable, production-ready LLM applications using pipelines. **Haystack** 
 
@@ -55,7 +55,11 @@ https://github.com/SYSTRAN/faster-whisper
 
   https://github.com/cg123/mergekit
 
-* 
+* **Semantic Router** is a superfast decision-making layer for your LLMs and agents. Rather than waiting for slow LLM generations to make tool-use decisions, we use the magic of semantic vector space to make those decisions — routing our requests using semantic meaning.
+
+  https://github.com/aurelio-labs/semantic-router
+
+
 
 
 
