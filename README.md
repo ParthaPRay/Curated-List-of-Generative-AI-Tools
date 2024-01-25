@@ -59,10 +59,13 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/aurelio-labs/semantic-router
 
+* **Langchain**  is a framework for developing applications powered by language models.
 
+  ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/1cff5d44-2606-40c4-af14-779234fc618e)
 
+  https://python.langchain.com/docs/get_started/introduction
 
-
+  https://github.com/langchain-ai/langchain
 
 
 
