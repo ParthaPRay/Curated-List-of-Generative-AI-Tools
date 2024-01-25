@@ -85,7 +85,17 @@ This repo contains the curated list of tools for generative AI
   
   https://bentoml.com/
 
+* The **Kubeflow** project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Kubeflow the cloud-native platform for machine learning operations - pipelines, training and deployment.
 
+  https://github.com/kubeflow/kubeflow
+  
+  https://www.kubeflow.org/
+
+# List of Curate List on ML 
+
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
+
+  https://github.com/EthicalML/awesome-production-machine-learning
 
 
 # Rise of AI
