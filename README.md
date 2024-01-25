@@ -24,9 +24,16 @@ https://github.com/microsoft/TaskWeaver
 
 * Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks **crewAI**
 
-![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/bf5cb0b0-8edd-4078-8550-92143fbf133b)
+   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/bf5cb0b0-8edd-4078-8550-92143fbf133b)
 
   https://github.com/joaomdmoura/crewAI
+
+
+ * Run and fine-tune open-source models, Deploy custom models at scale, Replicate makes it easy to run machine learning models in the cloud from your own code, All with one line of code **Replicate**
+
+   ![Screenshot 2024-01-25 222313](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/f4ea86c9-cdbf-4f9f-9c52-62fea363ef5a)
+
+   https://github.com/replicate/replicate-python
 
 
 
