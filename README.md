@@ -67,11 +67,21 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/langchain-ai/langchain
 
-* **BentoML** is a framework for building reliable, scalable and cost-efficient AI applications. It comes with everything you need for model serving, application packaging, and production deployment.
+
+* **MLFlow** Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform. It is an open source framework for tracking ML experiments, packaging ML code for training pipelines, and capturing models logged from experiments. It enables data scientists to iterate quickly during model development while keeping their experiments and training pipelines reproducible.
+
+  https://github.com/mlflow/mlflow
+
+  https://mlflow.org/
+
+
+  * **BentoML** is a framework for building reliable, scalable and cost-efficient AI applications. It comes with everything you need for model serving, application packaging, and production deployment. It focuses on ML in production. By design, BentoML is agnostic to the experimentation platform and the model development environment. It is best fitted to manage your “finalized model”, sets of models that yield the best outcomes from your periodic training pipelines and are meant for running in production. BentoML integrates with MLflow natively. Users can not only port over models logged with MLflow Tracking to BentoML for high-performance model serving but also combine MLFlow projects and pipelines with BentoML’s model deployment workflow in an efficient manner.
 
   https://github.com/bentoml/BentoML
   
   https://bentoml.com/
+
+
 
 
 # Rise of AI
