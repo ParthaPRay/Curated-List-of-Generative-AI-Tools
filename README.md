@@ -106,11 +106,29 @@ This repo contains the curated list of tools for generative AI
   https://www.ray.io/
 
 
+* **Llma Coder**
+
+  Llma coder is a Replace Copilot with a more powerful and local AI
+
+  https://github.com/ex3ndr/llama-coder
+
+
+* **Tabby**
+
+  It is Self-hosted AI coding assistant
+
+  https://github.com/TabbyML/tabby
+
+
+
 # List of Curate List on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
 
   https://github.com/EthicalML/awesome-production-machine-learning
+
+
+
 
 
 # Rise of AI
