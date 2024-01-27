@@ -168,7 +168,7 @@ This repo contains the curated list of tools for generative AI
   https://github.com/ollama/ollama
 
 
-# List of Curate List on ML 
+# External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
 
