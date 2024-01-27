@@ -112,6 +112,11 @@ This repo contains the curated list of tools for generative AI
   
   https://bentoml.com/
 
+
+* **TaskingAI** is an open source framework for LLM applications deployment 
+    https://github.com/TaskingAI/TaskingAI
+
+
 * The **Kubeflow** project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Kubeflow the cloud-native platform for machine learning operations - pipelines, training and deployment.
 
   https://github.com/kubeflow/kubeflow
