@@ -67,7 +67,34 @@ This repo contains the curated list of tools for generative AI
   https://python.langchain.com/docs/get_started/introduction
 
   https://github.com/langchain-ai/langchain
+  
+  https://integrations.langchain.com/
 
+  **LangGraph** is a library for building stateful, multi-actor applications with LLMs, built on top of (and intended to be used with) LangChain. It extends the LangChain Expression Language with the ability to coordinate multiple chains (or actors) across multiple 
+  steps of computation in a cyclic manner. It is inspired by Pregel and Apache Beam. The current interface exposed is one inspired by NetworkX.
+  
+  https://python.langchain.com/docs/langgraph
+
+
+
+  **LangChain Templates** is a collection of easily deployable reference architectures for a wide variety of tasks.
+  
+  https://python.langchain.com/docs/templates
+
+  **Langserve** is a library for deploying LangChain chains as a REST API.
+
+  https://www.langchain.com/langserve
+
+  **Langsmith** is a developer platform that lets you debug, test, evaluate, and monitor chains built on any LLM framework and seamlessly integrates with LangChain.
+
+  https://www.langchain.com/langsmith
+
+  **LangChain Expression Language (LCEL)** is a declarative way to easily compose chains together. LCEL was designed from day 1 to support putting prototypes in production, with no code changes, from the simplest “prompt + LLM” chain to the most complex chains (we’ve 
+  seen folks successfully run LCEL chains with 100s of steps in production). 
+
+  https://python.langchain.com/docs/expression_language/cookbook
+
+  
 
 * **MLFlow** Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform. It is an open source framework for tracking ML experiments, packaging ML code for training pipelines, and capturing models logged from experiments. It enables data scientists to iterate quickly during model development while keeping their experiments and training pipelines reproducible.
 
@@ -126,6 +153,14 @@ This repo contains the curated list of tools for generative AI
   https://github.com/jerryjliu/llama_index
   
   https://docs.llamaindex.ai/en/stable/
+
+  https://llamahub.ai/
+
+  https://github.com/run-llama/llama-lab
+
+
+
+
 
 
 # List of Curate List on ML 
