@@ -112,6 +112,13 @@ This repo contains the curated list of tools for generative AI
   
   https://bentoml.com/
 
+* **LocalGPT** helps Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+
+https://github.com/PromtEngineer/localGPT
+
+
+
+
 
 * **TaskingAI** is an open source framework for LLM applications deployment 
     https://github.com/TaskingAI/TaskingAI
