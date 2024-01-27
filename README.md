@@ -119,6 +119,13 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/TabbyML/tabby
 
+* **LlamaIndex**
+
+  LlamaIndex is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data. It’s available in Python (these docs) and Typescript.
+
+  https://github.com/jerryjliu/llama_index
+  
+  https://docs.llamaindex.ai/en/stable/
 
 
 # List of Curate List on ML 
