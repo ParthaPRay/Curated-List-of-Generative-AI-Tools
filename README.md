@@ -179,6 +179,12 @@ https://github.com/PromtEngineer/localGPT
 
   https://github.com/ollama/ollama
 
+* **Jan AI**
+
+Open-source ChatGPT alternative that runs 100% offline on your computer.
+
+https://jan.ai/
+
 
 # External List of Tool on ML 
 
