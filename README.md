@@ -186,6 +186,17 @@ Open-source ChatGPT alternative that runs 100% offline on your computer.
 https://jan.ai/
 
 
+
+* **Nightshade**
+  
+Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image models. Like Glaze, Nightshade is computed as a multi-objective optimization that minimizes visible changes to the original image. 
+
+https://nightshade.cs.uchicago.edu/whatis.html
+
+
+
+
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
