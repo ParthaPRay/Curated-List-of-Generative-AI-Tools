@@ -193,8 +193,13 @@ https://github.com/PromtEngineer/localGPT
 
  https://nightshade.cs.uchicago.edu/whatis.html
 
+* **OLMo**
 
+OlMo is a repository for training and using AI2's state-of-the-art open language models. It is built by scientists, for scientists.
 
+https://github.com/allenai/OLMo?tab=readme-ov-file#fine-tuning
+
+https://allenai.org/olmo
 
 
 # External List of Tool on ML 
