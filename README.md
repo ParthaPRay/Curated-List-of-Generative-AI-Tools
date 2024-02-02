@@ -202,6 +202,16 @@ https://github.com/allenai/OLMo?tab=readme-ov-file#fine-tuning
 https://allenai.org/olmo
 
 
+
+* **HyperwriteI**
+Self-Operating Computer, An open-source framework to enable multimodal models to operate a computer.
+
+https://www.hyperwriteai.com/self-operating-computer
+
+https://github.com/OthersideAI/self-operating-computer
+
+
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
