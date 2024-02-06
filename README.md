@@ -211,6 +211,12 @@ https://www.hyperwriteai.com/self-operating-computer
 https://github.com/OthersideAI/self-operating-computer
 
 
+* **GPT Pilot**
+
+Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+
+https://github.com/Pythagora-io/gpt-pilot
+
 
 # External List of Tool on ML 
 
