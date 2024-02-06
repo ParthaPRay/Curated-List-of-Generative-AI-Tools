@@ -224,6 +224,17 @@ https://github.com/illacloud/illa-builder?tab=readme-ov-file#illa-builder-
 https://illacloud.com
 
 
+* **Rawdog**
+
+Recursive Augmentation With Deterministic Output Generations (RAWDOG)
+
+Generate and auto-execute Python scripts in the cli
+
+https://github.com/AbanteAI/rawdog
+
+
+
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
