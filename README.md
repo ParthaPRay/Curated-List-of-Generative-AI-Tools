@@ -239,6 +239,16 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy is
 https://github.com/stanfordnlp/dspy
 
 
+
+* LLaMA Factory**
+
+Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
+
+https://github.com/hiyouga/LLaMA-Factory
+
+
+
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
