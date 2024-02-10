@@ -256,6 +256,16 @@ This repo contains the curated list of tools for generative AI
   https://github.com/hiyouga/LLaMA-Factory
 
 
+* The **MetaVoice-1B** is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech). It has been built with the following priorities:
+
+      Emotional speech rhythm and tone in English. No hallucinations.
+      Zero-shot cloning for American & British voices, with 30s reference audio.
+      Support for (cross-lingual) voice cloning with finetuning.
+      We have had success with as little as 1 minute training data for Indian speakers.
+      Support for long-form synthesis.
+
+   
+  https://github.com/metavoiceio/metavoice-src
 
 
 # External List of Tool on ML 
