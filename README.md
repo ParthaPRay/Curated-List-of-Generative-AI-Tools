@@ -21,9 +21,9 @@ This repo contains the curated list of tools for generative AI
 
 * Discover, download, and run local LLMs **LM Studio**
   
-![299743016-bd1dc9a9-1d53-4d07-b441-7b85ddcd1702](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/07ef1e3e-6de0-41ec-8fde-15d700eb481c)
+ ![299743016-bd1dc9a9-1d53-4d07-b441-7b85ddcd1702](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/07ef1e3e-6de0-41ec-8fde-15d700eb481c)
 
-  https://lmstudio.ai/
+   https://lmstudio.ai/
 
 * Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks **crewAI**
 
@@ -41,10 +41,10 @@ This repo contains the curated list of tools for generative AI
    https://github.com/replicate/replicate-python
 
  * **Open Interpreter** lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running 
- $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities:  Create and edit photos, videos, PDFs, etc., Control a 
- Chrome browser to perform research,  Plot, clean, and analyze large datasets.
+  $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities:  Create and edit photos, videos, PDFs, etc., Control a 
+  Chrome browser to perform research,  Plot, clean, and analyze large datasets.
 
-  https://github.com/KillianLucas/open-interpreter
+   https://github.com/KillianLucas/open-interpreter
 
  * **Faster Whisper** transcription with CTranslate2, faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
     
@@ -121,7 +121,7 @@ This repo contains the curated list of tools for generative AI
 
 * **LocalGPT** helps Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 
- https://github.com/PromtEngineer/localGPT
+  https://github.com/PromtEngineer/localGPT
 
 
 
