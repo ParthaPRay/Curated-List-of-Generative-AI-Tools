@@ -21,8 +21,8 @@ This repo contains the curated list of tools for generative AI
 
 * Discover, download, and run local LLMs **LM Studio**
   
- ![299743016-bd1dc9a9-1d53-4d07-b441-7b85ddcd1702](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/07ef1e3e-6de0-41ec-8fde-15d700eb481c)
-
+   ![299743016-bd1dc9a9-1d53-4d07-b441-7b85ddcd1702](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/07ef1e3e-6de0-41ec-8fde-15d700eb481c)
+ 
    https://lmstudio.ai/
 
 * Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks **crewAI**
@@ -189,9 +189,9 @@ This repo contains the curated list of tools for generative AI
 
  * **Jan AI**
 
-  Open-source ChatGPT alternative that runs 100% offline on your computer.
+   Open-source ChatGPT alternative that runs 100% offline on your computer.
 
-  https://jan.ai/
+   https://jan.ai/
 
 
 
