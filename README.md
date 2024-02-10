@@ -43,13 +43,14 @@ This repo contains the curated list of tools for generative AI
   https://docs.phidata.com/
   
   
- * Run and fine-tune open-source models, Deploy custom models at scale, Replicate makes it easy to run machine learning models in the cloud from your own code, All with one line of code
  
  * **Replicate**
 
-   ![Screenshot 2024-01-25 222313](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/f4ea86c9-cdbf-4f9f-9c52-62fea363ef5a)
+    Run and fine-tune open-source models, Deploy custom models at scale, Replicate makes it easy to run machine learning models in the cloud from your own code, All with one line of code
 
-   https://github.com/replicate/replicate-python
+    ![Screenshot 2024-01-25 222313](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/f4ea86c9-cdbf-4f9f-9c52-62fea363ef5a)
+
+    https://github.com/replicate/replicate-python
 
  * **Open Interpreter** lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running 
   $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities:  Create and edit photos, videos, PDFs, etc., Control a 
@@ -57,9 +58,10 @@ This repo contains the curated list of tools for generative AI
 
    https://github.com/KillianLucas/open-interpreter
 
- * **Faster Whisper** transcription with CTranslate2, faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
+ * **Faster Whisper**  transcription with CTranslate2, faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer 
+    models.
     
-  https://github.com/SYSTRAN/faster-whisper
+    https://github.com/SYSTRAN/faster-whisper
 
 * End-to-End LLM orchestration **framework** to build customizable, production-ready LLM applications using pipelines. **Haystack** 
 
