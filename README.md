@@ -31,7 +31,18 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/joaomdmoura/crewAI
 
+* **phidata**
 
+  Build AI Assistants using function calling
+
+   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/63e2d48d-249c-4c68-a5a1-b7a675aec8c1)
+
+
+  https://github.com/phidatahq/phidata
+
+  https://docs.phidata.com/
+  
+  
  * Run and fine-tune open-source models, Deploy custom models at scale, Replicate makes it easy to run machine learning models in the cloud from your own code, All with one line of code
  
  * **Replicate**
