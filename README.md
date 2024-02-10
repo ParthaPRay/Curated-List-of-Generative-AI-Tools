@@ -287,6 +287,29 @@ This repo contains the curated list of tools for generative AI
   https://github.com/metavoiceio/metavoice-src
 
 
+* **ChainLit**
+  
+  Chainlit is an open-source async Python framework which allows developers to build scalable Conversational AI or agentic applications.
+  
+ https://github.com/Chainlit/chainlit
+ 
+ https://docs.chainlit.io/
+
+* **LightLLM**
+
+  LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
+
+  https://github.com/ModelTC/lightllm
+
+
+* **LiteLLM**
+
+  An open source library to simplify LLM completion + embedding calls
+
+  https://litellm.ai/
+
+  https://github.com/BerriAI/litellm
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
