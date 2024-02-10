@@ -32,19 +32,21 @@ This repo contains the curated list of tools for generative AI
   https://github.com/joaomdmoura/crewAI
 
 
- * Run and fine-tune open-source models, Deploy custom models at scale, Replicate makes it easy to run machine learning models in the cloud from your own code, All with one line of code **Replicate**
+ * Run and fine-tune open-source models, Deploy custom models at scale, Replicate makes it easy to run machine learning models in the cloud from your own code, All with one line of code
+ 
+ * **Replicate**
 
    ![Screenshot 2024-01-25 222313](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/f4ea86c9-cdbf-4f9f-9c52-62fea363ef5a)
 
    https://github.com/replicate/replicate-python
 
-* **Open Interpreter** lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running 
+ * **Open Interpreter** lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running 
  $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities:  Create and edit photos, videos, PDFs, etc., Control a 
  Chrome browser to perform research,  Plot, clean, and analyze large datasets.
 
   https://github.com/KillianLucas/open-interpreter
 
-* **Faster Whisper** transcription with CTranslate2, faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
+ * **Faster Whisper** transcription with CTranslate2, faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
     
   https://github.com/SYSTRAN/faster-whisper
 
@@ -74,7 +76,7 @@ This repo contains the curated list of tools for generative AI
   https://integrations.langchain.com/
 
   **LangGraph** is a library for building stateful, multi-actor applications with LLMs, built on top of (and intended to be used with) LangChain. It extends the LangChain Expression 
- Language with the ability to coordinate multiple chains (or actors) across multiple 
+  Language with the ability to coordinate multiple chains (or actors) across multiple 
   steps of computation in a cyclic manner. It is inspired by Pregel and Apache Beam. The current interface exposed is one inspired by NetworkX.
   
   https://python.langchain.com/docs/langgraph
@@ -119,7 +121,7 @@ This repo contains the curated list of tools for generative AI
 
 * **LocalGPT** helps Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 
-https://github.com/PromtEngineer/localGPT
+ https://github.com/PromtEngineer/localGPT
 
 
 
@@ -129,7 +131,8 @@ https://github.com/PromtEngineer/localGPT
     https://github.com/TaskingAI/TaskingAI
 
 
-* The **Kubeflow** project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Kubeflow the cloud-native platform for machine learning operations - pipelines, training and deployment.
+* The **Kubeflow** project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Kubeflow the cloud-native platform for 
+ machine learning operations - pipelines, training and deployment.
 
   https://github.com/kubeflow/kubeflow
   
@@ -184,7 +187,7 @@ https://github.com/PromtEngineer/localGPT
 
   https://github.com/ollama/ollama
 
-* **Jan AI**
+ * **Jan AI**
 
   Open-source ChatGPT alternative that runs 100% offline on your computer.
 
@@ -194,63 +197,63 @@ https://github.com/PromtEngineer/localGPT
 
 * **Nightshade**
   
- Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image 
+  Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image 
  models. Like Glaze, Nightshade is computed as a multi-objective optimization that minimizes visible changes to the original image. 
 
- https://nightshade.cs.uchicago.edu/whatis.html
+  https://nightshade.cs.uchicago.edu/whatis.html
 
 * **OLMo**
 
- OlMo is a repository for training and using AI2's state-of-the-art open language models. It is built by scientists, for scientists.
+  OlMo is a repository for training and using AI2's state-of-the-art open language models. It is built by scientists, for scientists.
 
- https://github.com/allenai/OLMo?tab=readme-ov-file#fine-tuning
+  https://github.com/allenai/OLMo?tab=readme-ov-file#fine-tuning
 
- https://allenai.org/olmo
+  https://allenai.org/olmo
 
 
 
 * **HyperwriteI**
- Self-Operating Computer, An open-source framework to enable multimodal models to operate a computer.
+  Self-Operating Computer, An open-source framework to enable multimodal models to operate a computer.
 
- https://www.hyperwriteai.com/self-operating-computer
+  https://www.hyperwriteai.com/self-operating-computer
 
- https://github.com/OthersideAI/self-operating-computer
+  https://github.com/OthersideAI/self-operating-computer
 
 
 * **GPT Pilot**
 
- Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+  Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 
- https://github.com/Pythagora-io/gpt-pilot
+  https://github.com/Pythagora-io/gpt-pilot
 
- ILLA is a robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools.
+  ILLA is a robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools.
 
- https://github.com/illacloud/illa-builder?tab=readme-ov-file#illa-builder-
+  https://github.com/illacloud/illa-builder?tab=readme-ov-file#illa-builder-
 
- https://illacloud.com
+  https://illacloud.com
 
 
 * **Rawdog**
 
- Recursive Augmentation With Deterministic Output Generations (RAWDOG)
+  Recursive Augmentation With Deterministic Output Generations (RAWDOG)
 
- Generate and auto-execute Python scripts in the cli
+  Generate and auto-execute Python scripts in the cli
 
- https://github.com/AbanteAI/rawdog
+  https://github.com/AbanteAI/rawdog
 
 
 * **DSPy**
- DSPy: The framework for programming—not prompting—foundation models. DSPy is a framework for algorithmically optimizing LM prompts and weights, especially when LMs are used one or more times within a pipeline. To use LMs to build a complex system without DSPy, you generally have to: (1) break the problem down into steps, (2) prompt your LM well until each step works well in isolation, (3) tweak the steps to work well together, (4) generate synthetic examples to tune each step, and (5) use these examples to finetune smaller LMs to cut costs. Currently, this is hard and messy: every time you change your pipeline, your LM, or your data, all prompts (or finetuning steps) may need to change.
+  DSPy: The framework for programming—not prompting—foundation models. DSPy is a framework for algorithmically optimizing LM prompts and weights, especially when LMs are used one or more times within a pipeline. To use LMs to build a complex system without DSPy, you generally have to: (1) break the problem down into steps, (2) prompt your LM well until each step works well in isolation, (3) tweak the steps to work well together, (4) generate synthetic examples to tune each step, and (5) use these examples to finetune smaller LMs to cut costs. Currently, this is hard and messy: every time you change your pipeline, your LM, or your data, all prompts (or finetuning steps) may need to change.
 
- https://github.com/stanfordnlp/dspy
+  https://github.com/stanfordnlp/dspy
 
 
 
 * **LLaMA Factory**
 
- Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
+  Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
 
- https://github.com/hiyouga/LLaMA-Factory
+  https://github.com/hiyouga/LLaMA-Factory
 
 
 
