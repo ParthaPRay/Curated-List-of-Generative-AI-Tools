@@ -287,6 +287,23 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 
+# Open Source LLMs for live chat
+
+* **Phixtral** 
+
+  https://huggingface.co/spaces/mlabonne/phixtral-chat
+
+* **OpenChat**
+
+  https://github.com/imoneoi/openchat
+  
+  https://openchat.team/
+
+* **Perplexity**
+
+  https://www.perplexity.ai/
+
+
 
 
 # Rise of AI
