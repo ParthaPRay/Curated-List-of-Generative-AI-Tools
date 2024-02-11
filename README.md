@@ -347,6 +347,9 @@ This repo contains the curated list of tools for generative AI
 
   A real world full-stack application using LlamaIndex
 
+   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/f94d0214-8851-4d39-a7bc-015a792e2cdc)
+
+
   https://github.com/run-llama/sec-insights
 
   https://www.secinsights.ai/
