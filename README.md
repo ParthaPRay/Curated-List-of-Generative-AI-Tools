@@ -137,11 +137,9 @@ This repo contains the curated list of tools for generative AI
   https://github.com/PromtEngineer/localGPT
 
 
-* **moondream**
+* **moondream** a  tiny vision language model that kicks ass and runs anywhere
 
- A tiny vision language model that kicks ass and runs anywhere
-
- https://github.com/vikhyat/moondream
+   https://github.com/vikhyat/moondream
 
 
 * **TaskingAI** is an open source framework for LLM applications deployment 
