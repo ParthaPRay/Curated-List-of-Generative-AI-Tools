@@ -328,6 +328,25 @@ This repo contains the curated list of tools for generative AI
   https://github.com/vitoplantamura/OnnxStream
 
 
+* **unsloth**
+
+  5X faster 60% less memory QLoRA finetuning. Finetune Mistral, Llama 2-5x faster with 70% less memory!
+
+  https://github.com/unslothai/unsloth
+
+
+
+* **InVideo AI**
+
+  Text To Video in a Single Prompt
+  
+  https://invideo.io/i/PromptEngineer
+  
+  
+
+
+  
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
