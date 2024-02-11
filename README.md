@@ -312,6 +312,14 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/BerriAI/litellm
 
+    
+* **OnnxStream**
+
+  Lightweight inference library for ONNX files, written in C++. It can run SDXL on a RPI Zero 2 but also Mistral 7B on desktops and servers.
+
+  https://github.com/vitoplantamura/OnnxStream
+
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
