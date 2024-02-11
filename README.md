@@ -336,12 +336,6 @@ This repo contains the curated list of tools for generative AI
 
 
 
-* **InVideo AI**
-
-  Text To Video in a Single Prompt
-  
-  https://invideo.io/i/PromptEngineer
-
 
 * Empower your organization's Business Intelligence with **SEC Insights**
 
@@ -357,7 +351,34 @@ This repo contains the curated list of tools for generative AI
   
   
 
+* **InVideo AI**
 
+  Text To Video in a Single Prompt
+  
+  https://invideo.io/i/PromptEngineer
+
+
+* **Genmo AI**
+
+  Free animation video maker
+  
+  https://www.genmo.ai/
+
+  
+* **Kaiber AI**
+
+  Discover the artist within you. Turn text, videos, photos, and music into stunning videos with our advanced AI generation engine.
+  
+  https://kaiber.ai/
+
+
+* **Krea AI**
+
+  Real-Time AI Art Generation
+
+  1:  Text to Image, 2: Image to Image, 3: Upscaling, 4: AI Patterns, 5: Logo Illusion
+
+  https://www.krea.ai/
   
 
 # External List of Tool on ML 
