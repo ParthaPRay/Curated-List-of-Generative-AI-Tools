@@ -341,6 +341,16 @@ This repo contains the curated list of tools for generative AI
   Text To Video in a Single Prompt
   
   https://invideo.io/i/PromptEngineer
+
+
+* Empower your organization's Business Intelligence with **SEC Insights**
+
+  A real world full-stack application using LlamaIndex
+
+  https://github.com/run-llama/sec-insights
+
+  https://www.secinsights.ai/
+  
   
   
 
