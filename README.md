@@ -293,9 +293,9 @@ This repo contains the curated list of tools for generative AI
   
   Chainlit is an open-source async Python framework which allows developers to build scalable Conversational AI or agentic applications.
   
- https://github.com/Chainlit/chainlit
+   https://github.com/Chainlit/chainlit
  
- https://docs.chainlit.io/
+   https://docs.chainlit.io/
 
 * **LightLLM**
 
