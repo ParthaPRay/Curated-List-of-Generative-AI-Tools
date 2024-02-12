@@ -386,6 +386,12 @@ This repo contains the curated list of tools for generative AI
 
   https://pixverse.ai/
 
+* **mamba - state space model**
+
+  Mamba is a new state space model architecture showing promising performance on information-dense data such as language modeling, where previous subquadratic models fall short of Transformers. It is based on the line of progress on structured state space models, with an efficient hardware-aware design and implementation in the spirit of FlashAttention.
+  
+  https://github.com/state-spaces/mamba
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
