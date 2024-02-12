@@ -380,6 +380,11 @@ This repo contains the curated list of tools for generative AI
 
   https://www.krea.ai/
   
+* **PixVerse AI**
+
+  Create breath-taking videos with AI. Transform your ideas into stunning visuals with our powerful video creation platform
+
+  https://pixverse.ai/
 
 # External List of Tool on ML 
 
