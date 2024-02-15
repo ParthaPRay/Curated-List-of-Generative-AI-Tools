@@ -400,6 +400,12 @@ This repo contains the curated list of tools for generative AI
   
  https://github.com/Stability-AI/StableCascade
 
+* **GPT4All**
+
+  A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+  
+  https://gpt4all.io/index.html
+
 
 
 # External List of Tool on ML 
