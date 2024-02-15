@@ -392,6 +392,16 @@ This repo contains the curated list of tools for generative AI
   
   https://github.com/state-spaces/mamba
 
+
+
+* **Stable Cascade** 
+
+  This is the official codebase for Stable Cascade. We provide training & inference scripts, as well as a variety of different models you can use.
+  
+ https://github.com/Stability-AI/StableCascade
+
+
+
 # External List of Tool on ML 
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning
