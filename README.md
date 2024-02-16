@@ -415,6 +415,8 @@ This repo contains the curated list of tools for generative AI
 
   TRL - Transformer Reinforcement Learning. Full stack transformer language models with reinforcement learning. trl is a full stack library where we provide a set of tools to train transformer language models and stable diffusion models with Reinforcement Learning, from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step. The library is built on top of the transformers library by 🤗 Hugging Face. Therefore, pre-trained language models can be directly loaded via transformers. At this point, most of decoder architectures and encoder-decoder architectures are supported. Refer to the documentation or the examples/ folder for example code snippets and how to run these tools.
 
+  ![Untitled](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/96ae6ec0-7cc9-4fac-a323-64ab88830d72)
+
   https://github.com/huggingface/trl
 
   A starting point could be: https://github.com/huggingface/trl/blob/main/examples/scripts/sft.py
