@@ -405,7 +405,11 @@ This repo contains the curated list of tools for generative AI
   Old repo Notused now: Transformer related optimization, including BERT, GPT: https://github.com/NVIDIA/FasterTransformer
 
 
+* **PyTriton**
+  
+  PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment in Python environments.
 
+  https://github.com/triton-inference-server/pytriton/
 
 
 
