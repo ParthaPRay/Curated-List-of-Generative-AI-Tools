@@ -278,11 +278,7 @@ This repo contains the curated list of tools for generative AI
 
 
 
-* **LLaMA Factory**
 
-  Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
-
-  https://github.com/hiyouga/LLaMA-Factory
 
 
 * The **MetaVoice-1B** is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech). It has been built with the following priorities:
@@ -326,14 +322,6 @@ This repo contains the curated list of tools for generative AI
   Lightweight inference library for ONNX files, written in C++. It can run SDXL on a RPI Zero 2 but also Mistral 7B on desktops and servers.
 
   https://github.com/vitoplantamura/OnnxStream
-
-
-* **unsloth**
-
-  5X faster 60% less memory QLoRA finetuning. Finetune Mistral, Llama 2-5x faster with 70% less memory!
-
-  https://github.com/unslothai/unsloth
-
 
 
 
@@ -405,6 +393,38 @@ This repo contains the curated list of tools for generative AI
   A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
   
   https://gpt4all.io/index.html
+
+
+# Fine Tuning Tools
+
+* **LLaMA Factory**
+
+  Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
+
+  https://github.com/hiyouga/LLaMA-Factory
+  
+* **unsloth**
+
+
+  5X faster 60% less memory QLoRA finetuning. Fine tune Mistral, Llama 2-5x faster with 70% less memory!
+
+  https://github.com/unslothai/unsloth
+
+* **TRL**
+
+
+  TRL - Transformer Reinforcement Learning. Full stack transformer language models with reinforcement learning. trl is a full stack library where we provide a set of tools to train transformer language models and stable diffusion models with Reinforcement Learning, from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step. The library is built on top of the transformers library by 🤗 Hugging Face. Therefore, pre-trained language models can be directly loaded via transformers. At this point, most of decoder architectures and encoder-decoder architectures are supported. Refer to the documentation or the examples/ folder for example code snippets and how to run these tools.
+
+  https://github.com/huggingface/trl
+
+  A starting point could be: https://github.com/huggingface/trl/blob/main/examples/scripts/sft.py
+
+* **Axolotl**
+
+
+  Axolotl is a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.
+
+  https://github.com/OpenAccess-AI-Collective/axolotl
 
 
 
