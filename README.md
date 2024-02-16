@@ -434,6 +434,8 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/huggingface/autotrain-advanced
 
+  https://huggingface.co/autotrain
+
 
 
 
