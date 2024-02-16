@@ -394,6 +394,25 @@ This repo contains the curated list of tools for generative AI
   
   https://gpt4all.io/index.html
 
+* **TensorRT-LLM**
+
+  TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. It also includes a backend for integration with the NVIDIA Triton Inference Server; a production-quality system to serve LLMs. Models built with TensorRT-LLM can be executed on a wide range of configurations going from a single GPU to multiple nodes with multiple GPUs (using Tensor Parallelism and/or Pipeline Parallelism).
+
+  https://github.com/NVIDIA/TensorRT-LLM/
+
+  https://nvidia.github.io/TensorRT-LLM/
+
+  Old repo Notused now: Transformer related optimization, including BERT, GPT: https://github.com/NVIDIA/FasterTransformer
+
+
+
+
+
+
+
+
+
+
 
 # Fine Tuning Tools
 
