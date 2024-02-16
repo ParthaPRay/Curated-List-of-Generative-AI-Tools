@@ -169,6 +169,15 @@ This repo contains the curated list of tools for generative AI
   https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html
 
 
+* **PyTriton**
+  
+  PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment in Python environments.
+
+  https://github.com/triton-inference-server/pytriton/
+
+  https://resources.nvidia.com/en-us-ai-inference-large-language-models/
+
+
 
 * **Ray** is an open-source unified compute framework that makes it easy to scale AI and Python workloads — from reinforcement learning to deep learning to tuning, and model serving.
 
@@ -404,12 +413,6 @@ This repo contains the curated list of tools for generative AI
 
   Old repo Notused now: Transformer related optimization, including BERT, GPT: https://github.com/NVIDIA/FasterTransformer
 
-
-* **PyTriton**
-  
-  PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment in Python environments.
-
-  https://github.com/triton-inference-server/pytriton/
 
 
 
