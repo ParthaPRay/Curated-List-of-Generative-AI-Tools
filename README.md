@@ -412,6 +412,35 @@ This repo contains the curated list of tools for generative AI
   https://github.com/oobabooga/text-generation-webui
 
 
+# Web & Desktop
+
+* **Bionic GPT**
+  
+  BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+
+  https://github.com/bionic-gpt/bionic-gpt
+  
+* HTML UI
+
+  https://github.com/rtcfirefly/ollama-ui
+  
+* Chatbot UI
+* Typescript UI
+* Minimalistic React UI for Ollama Models
+* Open WebUI
+* Ollamac
+* big-AGI
+* Cheshire Cat assistant framework
+* Amica
+* chatd
+* Ollama-SwiftUI
+* MindMac
+
+
+
+
+
+
 # Local LLM Running Tools
 
 
