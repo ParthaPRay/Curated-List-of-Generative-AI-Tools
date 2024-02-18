@@ -71,7 +71,9 @@ This repo contains the curated list of tools for generative AI
     
     https://github.com/SYSTRAN/faster-whisper
 
-* End-to-End LLM orchestration **framework** to build customizable, production-ready LLM applications using pipelines. **Haystack** 
+* **Haystack**
+
+  End-to-End LLM orchestration **framework** to build customizable, production-ready LLM applications using pipelines. 
 
   https://github.com/deepset-ai/haystack
 
@@ -139,10 +141,6 @@ This repo contains the curated list of tools for generative AI
   https://github.com/bentoml/BentoML
   
   https://bentoml.com/
-
-* **LocalGPT** helps Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-
-  https://github.com/PromtEngineer/localGPT
 
 
 * **moondream** a  tiny vision language model that kicks ass and runs anywhere
@@ -219,11 +217,8 @@ This repo contains the curated list of tools for generative AI
 
 
 
-* **Ollama** platform helps to Run Llama 2, Code Llama, and other models. Customize and create your own.
 
-  https://ollama.ai/
 
-  https://github.com/ollama/ollama
 
  * **Jan AI**
 
@@ -397,11 +392,7 @@ This repo contains the curated list of tools for generative AI
   
  https://github.com/Stability-AI/StableCascade
 
-* **GPT4All**
 
-  A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
-  
-  https://gpt4all.io/index.html
 
 * **TensorRT-LLM**
 
@@ -414,19 +405,49 @@ This repo contains the curated list of tools for generative AI
   Old repo Notused now: Transformer related optimization, including BERT, GPT: https://github.com/NVIDIA/FasterTransformer
 
 
+* **text-generation-webui**
+
+  A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+  
+  https://github.com/oobabooga/text-generation-webui
+
+
 # Local LLM Running Tools
+
 
 * **AnythingLLM**
 
-A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+  A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+  
+  https://useanything.com/
+  
+  https://github.com/Mintplex-Labs/anything-llm
 
-https://useanything.com/
+* **Ollama** platform helps to Run Llama 2, Code Llama, and other models. Customize and create your own.
 
-https://github.com/Mintplex-Labs/anything-llm
+  https://ollama.ai/
 
+  https://github.com/ollama/ollama
 
+* **LocalGPT** helps Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 
+  https://github.com/PromtEngineer/localGPT
 
+* **GPT4All**
+
+  A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+  
+  https://gpt4all.io/index.html
+
+* **LM Studio**
+
+  Discover, download, and run local LLMs
+  
+  https://lmstudio.ai/
+
+  https://github.com/lmstudio-ai
+
+  https://huggingface.co/lmstudio-ai
 
 
 # Fine Tuning Tools
