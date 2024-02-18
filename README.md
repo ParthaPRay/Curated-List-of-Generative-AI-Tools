@@ -414,7 +414,15 @@ This repo contains the curated list of tools for generative AI
   Old repo Notused now: Transformer related optimization, including BERT, GPT: https://github.com/NVIDIA/FasterTransformer
 
 
+# Local LLM Running Tools
 
+* **AnythingLLM**
+
+A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+
+https://useanything.com/
+
+https://github.com/Mintplex-Labs/anything-llm
 
 
 
