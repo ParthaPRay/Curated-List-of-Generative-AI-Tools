@@ -412,6 +412,14 @@ This repo contains the curated list of tools for generative AI
   https://github.com/oobabooga/text-generation-webui
 
 
+
+
+* **Groq**
+  
+  It is the fastest inference platform for LLM. but not to be used for training of fine tuning purposes. It is dependent on Language Processing Unit LPU.
+  
+  https://groq.com/
+
 # Web & Desktop
 
 * **Bionic GPT**
