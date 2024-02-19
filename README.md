@@ -420,6 +420,27 @@ This repo contains the curated list of tools for generative AI
   
   https://groq.com/
 
+
+
+* **llama-cpp-python**
+
+  Python bindings for llama.cpp. Simple Python bindings for @ggerganov's llama.cpp library. This package provides:
+
+Low-level access to C API via ctypes interface.
+High-level Python API for text completion, 
+OpenAI-like API, 
+LangChain compatibility, 
+LlamaIndex compatibility, 
+OpenAI compatible web server, 
+Local Copilot replacement, 
+Function Calling support, 
+Vision API support, 
+Multiple Models
+
+  https://github.com/abetlen/llama-cpp-python
+
+  https://llama-cpp-python.readthedocs.io/en/latest/
+
 # Web & Desktop
 
 * **Bionic GPT**
