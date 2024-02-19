@@ -176,6 +176,15 @@ This repo contains the curated list of tools for generative AI
   https://resources.nvidia.com/en-us-ai-inference-large-language-models/
 
 
+* **Flowwise AI**
+
+ Open source UI visual tool to build your customized LLM orchestration flow & AI agents
+
+  https://flowiseai.com/
+
+  https://github.com/FlowiseAI/Flowise
+
+
 
 * **Ray** is an open-source unified compute framework that makes it easy to scale AI and Python workloads — from reinforcement learning to deep learning to tuning, and model serving.
 
