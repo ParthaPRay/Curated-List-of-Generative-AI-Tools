@@ -459,7 +459,7 @@ This repo contains the curated list of tools for generative AI
 * **taipy**
 
   Turns Data and AI algorithms into production-ready web applications in no time. Taipy is an open-source Python library for easy, end-to-end application development,
-featuring what-if analyses, smart pipeline execution, built-in scheduling, and deployment tools.
+featuring what-if analyses, smart pipeline execution, built-in scheduling, and deployment tools. Taipy is designed for data scientists and machine learning engineers to build full-stack apps.  
 
   https://github.com/Avaiga/taipy
 
