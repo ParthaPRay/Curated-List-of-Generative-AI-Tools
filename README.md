@@ -456,7 +456,16 @@ This repo contains the curated list of tools for generative AI
 # Web & Desktop Apps
 
 
-* **Bionic GPT**
+* **taipy**
+
+  Turns Data and AI algorithms into production-ready web applications in no time. Taipy is an open-source Python library for easy, end-to-end application development,
+featuring what-if analyses, smart pipeline execution, built-in scheduling, and deployment tools.
+
+  https://github.com/Avaiga/taipy
+
+  https://www.taipy.io/
+
+*   **Bionic GPT**
   
   BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 
