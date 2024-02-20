@@ -399,7 +399,7 @@ This repo contains the curated list of tools for generative AI
 
   This is the official codebase for Stable Cascade. We provide training & inference scripts, as well as a variety of different models you can use.
   
- https://github.com/Stability-AI/StableCascade
+  https://github.com/Stability-AI/StableCascade
 
 
 
@@ -420,6 +420,15 @@ This repo contains the curated list of tools for generative AI
   
   https://github.com/oobabooga/text-generation-webui
 
+* **Portkey's AI Gateway**
+
+  It is the interface between your app and hosted LLMs. It streamlines API requests to OpenAI, Anthropic, Mistral, LLama2, Anyscale, Google Gemini and more with a unified API.
+
+  A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+
+  https://github.com/portkey-ai/gateway
+
+  https://portkey.ai/
 
 
 
@@ -435,22 +444,17 @@ This repo contains the curated list of tools for generative AI
 
   Python bindings for llama.cpp. Simple Python bindings for @ggerganov's llama.cpp library. This package provides:
 
-Low-level access to C API via ctypes interface.
-High-level Python API for text completion, 
-OpenAI-like API, 
-LangChain compatibility, 
-LlamaIndex compatibility, 
-OpenAI compatible web server, 
-Local Copilot replacement, 
-Function Calling support, 
-Vision API support, 
-Multiple Models
+  Low-level access to C API via ctypes interface. High-level Python API for text completion,  OpenAI-like API, LangChain compatibility, LlamaIndex compatibility, OpenAI compatible web server, Local Copilot replacement, Function Calling support, Vision API support, Multiple Models
 
   https://github.com/abetlen/llama-cpp-python
 
   https://llama-cpp-python.readthedocs.io/en/latest/
 
-# Web & Desktop
+
+  
+
+# Web & Desktop Apps
+
 
 * **Bionic GPT**
   
@@ -458,21 +462,84 @@ Multiple Models
 
   https://github.com/bionic-gpt/bionic-gpt
   
-* HTML UI
+* **HTML UI**
 
+  Simple HTML UI for Ollama
+ 
   https://github.com/rtcfirefly/ollama-ui
+
+  https://ollama-ui.github.io/ollama-ui/
   
-* Chatbot UI
-* Typescript UI
-* Minimalistic React UI for Ollama Models
-* Open WebUI
-* Ollamac
-* big-AGI
-* Cheshire Cat assistant framework
-* Amica
-* chatd
-* Ollama-SwiftUI
-* MindMac
+* **Chatbot UI**
+
+  Chatbot Ollama is an open source chat UI for Ollama.
+
+  https://github.com/ivanfioravanti/chatbot-ollama
+  
+  
+* **Typescript UI**
+
+  A GUI interface for Ollama
+
+  https://ollama.twanluttik.com/
+
+    
+* **Minimalistic React UI for Ollama Models**
+
+  Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
+
+  https://github.com/richawo/minimal-llm-ui
+  
+* **Open WebUI**
+
+  ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
+
+  https://github.com/open-webui/open-webui
+
+  https://openwebui.com/
+
+  
+* **big-AGI**
+
+    💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
+
+  https://github.com/enricoros/big-agi/tree/main
+
+  https://big-agi.com/
+  
+* **Cheshire Cat assistant framework**
+
+  Production ready AI assistant framework
+
+  https://cheshirecat.ai/
+  
+* **Amica**
+
+  Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
+
+  https://github.com/semperai/amica
+  
+  https://heyamica.com/
+  
+* **chatd**
+
+  Chat with your documents using local AI
+
+  https://github.com/BruceMacD/chatd
+
+  https://chatd.ai/
+  
+* **Ollama-SwiftUI**
+
+  User Interface made for Ollama.ai using Swift
+
+  https://github.com/kghandour/Ollama-SwiftUI
+  
+* **nextjs-ollama-llm-ui**
+
+  Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS
+
+  https://github.com/jakobhoeg/nextjs-ollama-llm-ui
 
 
 
@@ -493,7 +560,7 @@ Multiple Models
 * **Ollama** platform helps to Run Llama 2, Code Llama, and other models. Customize and create your own.
 
   https://ollama.ai/
-
+ 
   https://github.com/ollama/ollama
 
 * **LocalGPT** helps Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
