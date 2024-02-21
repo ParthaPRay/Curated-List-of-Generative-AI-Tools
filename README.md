@@ -153,7 +153,7 @@ This repo contains the curated list of tools for generative AI
 
 
 * The **Kubeflow** project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Kubeflow the cloud-native platform for 
- machine learning operations - pipelines, training and deployment.
+  machine learning operations - pipelines, training and deployment.
 
   https://github.com/kubeflow/kubeflow
   
@@ -329,6 +329,14 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/BerriAI/litellm
 
+
+* **FastChat**
+
+  An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+
+  https://github.com/lm-sys/FastChat
+
+  
     
 * **OnnxStream**
 
@@ -336,6 +344,14 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/vitoplantamura/OnnxStream
 
+
+* **PEFT**
+  
+   Fine-tuning large pretrained models is often prohibitively costly due to their scale. Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of large pretrained models to various downstream applications by only fine-tuning a small number of (extra) model parameters instead of all the model's parameters. This significantly decreases the computational and storage costs. Recent state-of-the-art PEFT techniques achieve performance comparable to fully fine-tuned models.
+
+  https://github.com/huggingface/peft
+
+  https://huggingface.co/docs/peft
 
 
 * Empower your organization's Business Intelligence with **SEC Insights**
