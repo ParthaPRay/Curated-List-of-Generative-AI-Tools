@@ -467,6 +467,15 @@ This repo contains the curated list of tools for generative AI
   https://llama-cpp-python.readthedocs.io/en/latest/
 
 
+
+
+* **Gemma.cpp**
+  
+  gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
+
+For additional information about Gemma, see ai.google.dev/gemma  https://ai.google.dev/gemma) Model weights, including gemma.cpp specific artifacts, are available on kaggle https://www.kaggle.com/models/google/gemma.
+
+  https://github.com/google/gemma.cpp
   
 
 # Web & Desktop Apps
