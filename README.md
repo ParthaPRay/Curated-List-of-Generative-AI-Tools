@@ -566,6 +566,17 @@ featuring what-if analyses, smart pipeline execution, built-in scheduling, and d
 
   https://github.com/jakobhoeg/nextjs-ollama-llm-ui
 
+* **Reor**
+
+  https://github.com/reorproject/reor
+
+  https://reorproject.org/
+  
+  Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.
+
+ The hypothesis of the project is that AI tools for thought should run models locally by default. Reor stands on the shoulders of the giants Llama.cpp, Transformers.js & LanceDB to enable both LLMs and embedding models to run locally. (Connecting to OpenAI-compatible APIs like Oobabooga is also supported.)
+  
+
 
 
 
@@ -607,6 +618,11 @@ featuring what-if analyses, smart pipeline execution, built-in scheduling, and d
   https://github.com/lmstudio-ai
 
   https://huggingface.co/lmstudio-ai
+
+
+
+
+
 
 
 # Fine Tuning Tools
