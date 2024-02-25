@@ -416,7 +416,18 @@ This repo contains the curated list of tools for generative AI
   This is the official codebase for Stable Cascade. We provide training & inference scripts, as well as a variety of different models you can use.
   
   https://github.com/Stability-AI/StableCascade
+  
 
+* **OpenCodeInterpreter** 
+
+  Integrating Code Generation with Execution and Refinement
+
+    ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/dd72190f-cfc6-492a-a094-292bda57928b)
+
+  
+  https://opencodeinterpreter.github.io/
+
+  https://huggingface.co/collections/m-a-p/opencodeinterpreter-65d312f6f88da990a64da456
 
 
 * **TensorRT-LLM**
