@@ -639,9 +639,11 @@ featuring what-if analyses, smart pipeline execution, built-in scheduling, and d
 
   https://huggingface.co/lmstudio-ai
 
-
-
-
+* **TRL - Transformer Reinforcement Learning**
+  
+TRL is a full stack library where we provide a set of tools to train transformer language models with Reinforcement Learning, from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step. The library is integrated with 🤗 transformers.
+  
+https://huggingface.co/docs/trl/main/en/index
 
 
 
