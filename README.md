@@ -595,6 +595,18 @@ featuring what-if analyses, smart pipeline execution, built-in scheduling, and d
   Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.
 
  The hypothesis of the project is that AI tools for thought should run models locally by default. Reor stands on the shoulders of the giants Llama.cpp, Transformers.js & LanceDB to enable both LLMs and embedding models to run locally. (Connecting to OpenAI-compatible APIs like Oobabooga is also supported.)
+
+* Pinocio
+
+  Pinokio is a browser that lets you install, run, and programmatically control ANY application, automatically.
+Install, Run & Control
+Databases
+on Your Computer
+with 1 Click.
+
+  https://github.com/pinokiocomputer/pinokio
+
+  https://pinokio.computer/
   
 
 
