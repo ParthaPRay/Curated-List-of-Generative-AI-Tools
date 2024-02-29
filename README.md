@@ -441,6 +441,13 @@ This repo contains the curated list of tools for generative AI
   Old repo Notused now: Transformer related optimization, including BERT, GPT: https://github.com/NVIDIA/FasterTransformer
 
 
+* **Language Model Evaluation Harness**
+
+  A framework for few-shot evaluation of language models.
+  
+  https://github.com/EleutherAI/lm-evaluation-harness
+
+
 * **text-generation-webui**
 
   A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
