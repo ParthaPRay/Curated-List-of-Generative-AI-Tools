@@ -447,6 +447,9 @@ This repo contains the curated list of tools for generative AI
   
   https://github.com/EleutherAI/lm-evaluation-harness
 
+      https://www.eleuther.ai/
+      https://www.eleuther.ai/releases
+
 
 * **text-generation-webui**
 
