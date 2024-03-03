@@ -498,6 +498,11 @@ For additional information about Gemma, see ai.google.dev/gemma  https://ai.goog
 
   https://github.com/google/gemma.cpp
   
+* Pandas-AI
+  
+PandasAI is a Python library that makes it easy to ask questions to your data (CSV, XLSX, PostgreSQL, MySQL, BigQuery, Databrick, Snowflake, etc.) in natural language. xIt helps you to explore, clean, and analyze your data using generative AI.
+
+https://docs.pandas-ai.com/en/latest/
 
 # Web & Desktop Apps
 
