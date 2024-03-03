@@ -504,6 +504,12 @@ PandasAI is a Python library that makes it easy to ask questions to your data (C
 
 https://docs.pandas-ai.com/en/latest/
 
+https://github.com/Sinaptik-AI/pandas-ai
+
+
+
+
+
 # Web & Desktop Apps
 
 
