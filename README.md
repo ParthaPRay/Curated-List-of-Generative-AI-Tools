@@ -516,6 +516,17 @@ support for ChatGPT API only
 
 https://github.com/Itachi-Uchiha581/Auto-Data
 
+* LlamaHub
+
+  Get your RAG application rolling in no time. Mix and match our Data Loaders and Agent Tools to build custom RAG apps or use our LlamaPacks as a starting point for your retrieval use cases.
+  
+  https://github.com/run-llama/llama_index
+
+  https://llamahub.ai/
+
+
+
+
 
 
 # Web & Desktop Apps
