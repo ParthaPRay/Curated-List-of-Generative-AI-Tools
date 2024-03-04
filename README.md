@@ -508,6 +508,14 @@ https://github.com/Sinaptik-AI/pandas-ai
 
 
 
+* Auto Data
+  
+Auto Data is a library designed for quick and effortless creation of datasets tailored for fine-tuning Large Language Models (LLMs) using json format
+
+support for ChatGPT API only 
+
+https://github.com/Itachi-Uchiha581/Auto-Data
+
 
 
 # Web & Desktop Apps
