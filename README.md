@@ -636,7 +636,7 @@ featuring what-if analyses, smart pipeline execution, built-in scheduling, and d
 
  The hypothesis of the project is that AI tools for thought should run models locally by default. Reor stands on the shoulders of the giants Llama.cpp, Transformers.js & LanceDB to enable both LLMs and embedding models to run locally. (Connecting to OpenAI-compatible APIs like Oobabooga is also supported.)
 
-* Pinocio
+* **Pinocio**
 
   Pinokio is a browser that lets you install, run, and programmatically control ANY application, automatically.
 Install, Run & Control
@@ -647,6 +647,16 @@ with 1 Click.
   https://github.com/pinokiocomputer/pinokio
 
   https://pinokio.computer/
+
+
+
+* **DataLang**
+  
+  https://datalang.io/
+  
+  Chat with your Databases. 
+  
+Connect your data sources, set up some data views (i.e. SQL scripts), configure a GPT Assistant, publish a Custom GPT in the ChatGPT store, and share it with your users, employees, or customers!
   
 
 
