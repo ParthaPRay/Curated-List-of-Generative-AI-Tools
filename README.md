@@ -336,8 +336,9 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/lm-sys/FastChat
 
-  
-    
+
+
+   
 * **OnnxStream**
 
   Lightweight inference library for ONNX files, written in C++. It can run SDXL on a RPI Zero 2 but also Mistral 7B on desktops and servers.
@@ -528,6 +529,13 @@ https://github.com/Itachi-Uchiha581/Auto-Data
   https://llamahub.ai/
 
 
+
+
+
+
+
+![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/e8f062fa-b4d4-474d-926c-688cc404c6ae)
+Reference: https://www.youtube.com/watch?v=MKnj-qsWNrw&ab_channel=FahdMirza
 
 
 
