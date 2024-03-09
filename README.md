@@ -365,15 +365,18 @@ This repo contains the curated list of tools for generative AI
 
   https://www.secinsights.ai/
   
-  
-  
 
-* **InVideo AI**
 
-  Text To Video in a Single Prompt
+* **Ludwig**
+
+  Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
+
+   
+  https://github.com/ludwig-ai/ludwig
+
+  http://ludwig.ai/
+
   
-  https://invideo.io/i/PromptEngineer
-
 
 * **Genmo AI**
 
