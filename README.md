@@ -534,12 +534,6 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
-![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/e8f062fa-b4d4-474d-926c-688cc404c6ae)
-Reference: https://www.youtube.com/watch?v=MKnj-qsWNrw&ab_channel=FahdMirza
-
-
-
-
 # Web & Desktop Apps
 
 
@@ -676,6 +670,11 @@ Connect your data sources, set up some data views (i.e. SQL scripts), configure 
 
 
 # Local LLM Running Tools
+
+
+
+![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/e8f062fa-b4d4-474d-926c-688cc404c6ae)
+Reference: https://www.youtube.com/watch?v=MKnj-qsWNrw&ab_channel=FahdMirza
 
 
 * **AnythingLLM**
