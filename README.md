@@ -719,6 +719,23 @@ https://huggingface.co/docs/trl/main/en/index
 
 
 
+* Cleanlab
+
+  The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+
+  cleanlab helps you clean data and labels by automatically detecting issues in a ML dataset. To facilitate machine learning with messy, real-world data, this data-centric AI package uses your existing models to estimate dataset problems that can be fixed to train even better models.
+
+  https://cleanlab.ai/
+
+  https://github.com/cleanlab/cleanlab
+
+
+
+
+
+
+
+
 # Fine Tuning Tools
 
 * **LLaMA Factory**
@@ -772,6 +789,10 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 
+
+
+
+
 # Open Source LLMs for live chat
 
 * **Phixtral** 
@@ -787,6 +808,8 @@ This repository contains a curated list of awesome open source libraries that wi
 * **Perplexity**
 
   https://www.perplexity.ai/
+
+
 
 
 
