@@ -502,7 +502,7 @@ For additional information about Gemma, see ai.google.dev/gemma  https://ai.goog
 
   https://github.com/google/gemma.cpp
   
-* Pandas-AI
+* **Pandas-AI**
   
 PandasAI is a Python library that makes it easy to ask questions to your data (CSV, XLSX, PostgreSQL, MySQL, BigQuery, Databrick, Snowflake, etc.) in natural language. xIt helps you to explore, clean, and analyze your data using generative AI.
 
@@ -512,7 +512,7 @@ https://github.com/Sinaptik-AI/pandas-ai
 
 
 
-* Auto Data
+* **Auto Data**
   
 Auto Data is a library designed for quick and effortless creation of datasets tailored for fine-tuning Large Language Models (LLMs) using json format
 
@@ -520,7 +520,19 @@ support for ChatGPT API only
 
 https://github.com/Itachi-Uchiha581/Auto-Data
 
-* LlamaHub
+
+* **Cleanlab**
+
+  The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+
+  cleanlab helps you clean data and labels by automatically detecting issues in a ML dataset. To facilitate machine learning with messy, real-world data, this data-centric AI package uses your existing models to estimate dataset problems that can be fixed to train even better models.
+
+  https://cleanlab.ai/
+
+  https://github.com/cleanlab/cleanlab
+
+  
+* **LlamaHub**
 
   Get your RAG application rolling in no time. Mix and match our Data Loaders and Agent Tools to build custom RAG apps or use our LlamaPacks as a starting point for your retrieval use cases.
   
@@ -529,6 +541,22 @@ https://github.com/Itachi-Uchiha581/Auto-Data
   https://llamahub.ai/
 
 
+
+* **FlagEmbedding**
+
+  Retrieval and Retrieval-augmented LLMs.
+
+  FlagEmbedding focuses on retrieval-augmented LLMs, consisting of the following projects currently:
+
+     - Long-Context LLM: Activation Beacon
+     - Fine-tuning of LM : LM-Cocktail
+     - Dense Retrieval: BGE-M3, LLM Embedder, BGE Embedding
+     - Reranker Model: BGE Reranker
+     - Benchmark: C-MTEB
+
+  https://github.com/FlagOpen/FlagEmbedding
+
+  https://huggingface.co/BAAI/bge-base-en-v1.5
 
 
 
@@ -719,15 +747,7 @@ https://huggingface.co/docs/trl/main/en/index
 
 
 
-* Cleanlab
 
-  The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-
-  cleanlab helps you clean data and labels by automatically detecting issues in a ML dataset. To facilitate machine learning with messy, real-world data, this data-centric AI package uses your existing models to estimate dataset problems that can be fixed to train even better models.
-
-  https://cleanlab.ai/
-
-  https://github.com/cleanlab/cleanlab
 
 
 
