@@ -560,6 +560,17 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
+* **AssemblyAI**
+
+  With a single API call, get access to AI models built on the latest AI breakthroughs to transcribe and understand **audio and speech** data securely at large scale.
+
+  https://github.com/AssemblyAI/assemblyai-python-sdk
+  
+  CookBook:
+  
+  https://github.com/AssemblyAI/cookbook
+
+
 
 
 # Web & Desktop Apps
