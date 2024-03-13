@@ -573,6 +573,16 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
+
+* **iter**
+
+  🔁 Code iteration tool running on Groq
+
+  https://github.com/freuk/iter
+
+  https://www.youtube.com/watch?v=m1qnOKXGSAk&t=10s&ab_channel=MervinPraison
+
+
 # Web & Desktop Apps
 
 
