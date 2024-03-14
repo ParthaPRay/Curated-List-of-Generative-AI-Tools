@@ -607,6 +607,34 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
+
+* **agentkit**
+
+
+ Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
+
+ AgentKit is a LangChain-based starter kit developed by BCG X to build Agent apps. Developers can use AgentKit to
+
+    - Quickly experiment on your constrained agent architecture with a beautiful UI
+    - Build a full stack chat-based Agent app that can scale to production-grade MVP
+
+  https://agentkit.infra.x.bcg.com/
+
+
+  https://github.com/BCG-X-Official/agentkit
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Web & Desktop Apps
 
 
