@@ -583,6 +583,30 @@ https://github.com/Itachi-Uchiha581/Auto-Data
   https://www.youtube.com/watch?v=m1qnOKXGSAk&t=10s&ab_channel=MervinPraison
 
 
+* **outlines**
+
+  Outlines〰 is a Python library that allows you to use Large Language Model in a simple and robust way (with structured generation). It is built by .txt, and is already used in production by many companies.
+
+  We support Openai, but the true power of Outlines〰 is unleashed with Open Source models available via the Transformers, llama.cpp, exllama2 and mamba_ssm libraries. If you want to build and maintain an integration with another library, get in touch.
+  
+  Structured Text Generation
+
+      - Outlines 〰 is a library for neural text generation. You can think of it as a more flexible replacement for the generate method in the transformers library.
+      
+      - Outlines 〰 helps developers structure text generation to build robust interfaces with external systems. Provides generation methods that guarantee that the output will match a regular expressions, or follow a JSON schema.
+      
+      - Outlines 〰 provides robust prompting primitives that separate the prompting from the execution logic and lead to simple implementations of few-shot generations, ReAct, meta-prompting, agents, etc.
+      
+      - Outlines 〰 is designed as a library that is meant to be compatible the broader ecosystem, not to replace it. We use as few abstractions as possible, and generation can be interleaved with control flow, conditionals, custom Python functions and calls to other libraries.
+      
+       - Outlines 〰 is compatible with every auto-regressive model. It only interfaces with models via the next-token logits.
+  
+  https://github.com/outlines-dev/outlines
+
+  https://outlines-dev.github.io/outlines/
+
+
+
 # Web & Desktop Apps
 
 
@@ -712,6 +736,9 @@ with 1 Click.
   
 Connect your data sources, set up some data views (i.e. SQL scripts), configure a GPT Assistant, publish a Custom GPT in the ChatGPT store, and share it with your users, employees, or customers!
   
+
+
+
 
 
 
