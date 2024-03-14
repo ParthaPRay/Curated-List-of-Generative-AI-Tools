@@ -628,7 +628,24 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
+* Dramatron
+  
+Dramatron uses existing, pre-trained large language models to generate long, coherent text and could be useful for authors for co-writing theatre scripts and screenplays. Dramatron uses hierarchical story generation for consistency across the generated text. Starting from a log line, Dramatron interactively generates character descriptions, plot points, location descriptions, and dialogue. These generations provide human authors with material for compilation, editing, and rewriting.
 
+Dramatron is conceived as a writing tool and as a source of inspiration and exploration for writers. To evaluate Dramatron’s usability and capabilities, we engaged 15 playwrights and screenwriters in two-hour long user study sessions to co-write scripts alongside Dramatron.
+
+  ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/2c6cf661-ffcc-46e5-9c0d-52816be261af)
+
+
+One concrete illustration of how Dramatron can be utilised by creative communities is how one playwright staged 4 heavily edited and rewritten scripts co-written alongside Dramatron. In the public theatre show, Plays by Bots, a talented cast of experienced actors with improvisational skills gave meaning to Dramatron scripts through acting and interpretation.
+
+  Dramatron uses large language models to generate coherent scripts and screenplays.
+
+  https://colab.research.google.com/github/deepmind/dramatron/blob/main/colab/dramatron.ipynb
+  
+  https://deepmind.github.io/dramatron
+
+  https://github.com/google-deepmind/dramatron
 
 
 
