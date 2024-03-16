@@ -784,7 +784,23 @@ Connect your data sources, set up some data views (i.e. SQL scripts), configure 
 
 
 
+* **QAnything**
 
+  Question and Answer based on Anything.
+
+   QAnything(Question and Answer based on Anything) is a local knowledge base question-answering system designed to support a wide range of file formats and databases, allowing for offline installation and use.
+
+With QAnything, you can simply drop any locally stored file of any format and receive accurate, fast, and reliable answers.
+
+Currently supported formats include: PDF(pdf),Word(docx),PPT(pptx),XLS(xlsx),Markdown(md),Email(eml),TXT(txt),Image(jpg，jpeg，png),CSV(csv),Web links(html) and more formats coming soon…
+
+Architecture:
+
+  ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/0a020603-811f-4fa2-beea-c3e96d8ba016)
+
+  Use with: https://huggingface.co/netease-youdao/Qwen-7B-QAnything
+
+  https://github.com/netease-youdao/QAnything
 
 
 
