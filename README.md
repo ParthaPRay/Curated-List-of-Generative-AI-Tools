@@ -650,6 +650,22 @@ One concrete illustration of how Dramatron can be utilised by creative communiti
 
 
 
+# Graph Realted Tools for Helping RAG or GRAPH RAG Tools
+
+* **graspologic**
+
+  Python package for graph statistics.
+  
+  A graph, or network, provides a mathematically intuitive representation of data with some sort of relationship between items. For example, a social network can be represented as a graph by considering all participants in the social network as nodes, with connections representing whether each pair of individuals in the network are friends with one another. Naively, one might apply traditional statistical techniques to a graph, which neglects the spatial arrangement of nodes within the network and is not utilizing all of the information present in the graph. In this package, we provide utilities and algorithms designed for the processing and analysis of graphs with specialized graph statistical algorithms.
+
+  https://github.com/microsoft/graspologic
+
+  https://microsoft.github.io/graspologic/latest/index.html
+
+
+
+
+
 
 
 # Web & Desktop Apps
