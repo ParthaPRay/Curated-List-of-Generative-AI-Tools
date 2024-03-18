@@ -627,8 +627,19 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
+* **OpenSora**
 
-* Dramatron
+  ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/fed3d3b8-4b8b-4fb4-bd25-2f3316a08307)
+
+  Open-Sora, an initiative dedicated to efficiently produce high-quality video and make the model, tools and contents accessible to all. By embracing open-source principles, Open-Sora not only democratizes access to advanced video generation techniques, but also offers a streamlined and user-friendly platform that simplifies the complexities of video production. With Open-Sora, we aim to inspire innovation, creativity, and inclusivity in the realm of content creation.
+  
+  Open-Sora: Democratizing Efficient Video Production for All
+  
+  https://github.com/hpcaitech/Open-Sora
+
+
+
+* **Dramatron**
   
 Dramatron uses existing, pre-trained large language models to generate long, coherent text and could be useful for authors for co-writing theatre scripts and screenplays. Dramatron uses hierarchical story generation for consistency across the generated text. Starting from a log line, Dramatron interactively generates character descriptions, plot points, location descriptions, and dialogue. These generations provide human authors with material for compilation, editing, and rewriting.
 
