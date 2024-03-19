@@ -83,6 +83,18 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/cg123/mergekit
 
+
+* **makeMoE**
+
+  From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
+
+  Sparse mixture of experts language model from scratch inspired by (and largely based on) Andrej Karpathy's makemore (https://github.com/karpathy/makemore)
+
+  This is an implementation of a sparse mixture of experts language model from scratch. This is inspired by and largely based on Andrej Karpathy's project 'makemore' and borrows the re-usable components from that implementation. Just like makemore, makeMoE is also an autoregressive character-level language model but uses the aforementioned sparse mixture of experts architecture.
+
+  https://github.com/AviSoori1x/makeMoE
+  
+
 * **Semantic Router** is a superfast decision-making layer for your LLMs and agents. Rather than waiting for slow LLM generations to make tool-use decisions, we use the magic of 
  semantic vector space to make those decisions — routing our requests using semantic meaning.
 
