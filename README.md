@@ -965,7 +965,10 @@ This repository contains a curated list of awesome open source libraries that wi
 
   https://www.perplexity.ai/
 
-
+* SemanticFinder
+  
+  https://do-me.github.io/SemanticFinder/
+  
 
 
 
