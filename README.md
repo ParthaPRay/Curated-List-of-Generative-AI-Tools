@@ -909,11 +909,29 @@ https://huggingface.co/docs/trl/main/en/index
 
 
 
+* **The open-source language model computer**
 
 
+  **The 01 Project** is building an open-source ecosystem for AI devices.
+
+Our flagship operating system can power conversational devices like the Rabbit R1, Humane Pin, or Star Trek computer.
+
+We intend to become the GNU/Linux of this space by staying open, modular, and free.
+
+The 01 exposes a speech-to-speech websocket at localhost:10001.
+
+If you stream raw audio bytes to / in LMC format, you will receive its response in the same format.
+
+Inspired in part by Andrej Karpathy's LLM OS, we run a code-interpreting language model, and call it when certain events occur at your computer's kernel.
+
+The 01 wraps this in a voice interface:
+
+<img width="627" alt="image" src="https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/1a6fcf8f-1b02-4960-bd7c-2e7f726e24b7">
 
 
+https://github.com/OpenInterpreter/01
 
+https://youtu.be/YxiNUST6gU4?si=e_jvAbLL5N6QDrVU
 
 
 
