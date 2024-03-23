@@ -18,6 +18,18 @@ This repo contains the curated list of tools for generative AI
 
   https://github.com/microsoft/TaskWeaver
 
+* **LLM OS**
+
+
+Specs:
+- LLM: OpenAI GPT-4 Turbo 256 core (batch size) processor @ 20Hz (tok/s)
+- RAM: 128Ktok
+- Filesystem: Ada002
+  
+  ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/83ebec13-16f8-43d8-8ee8-3ce5d746e1d0)
+
+https://twitter.com/karpathy/status/1723140519554105733
+
 
 * **llmware**
 
@@ -302,7 +314,21 @@ This repo contains the curated list of tools for generative AI
   https://github.com/stanfordnlp/dspy
 
 
+* **Open Interpreter**
 
+A natural language interface for computers
+
+Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.
+
+This provides a natural-language interface to your computer's general-purpose capabilities:
+
+Create and edit photos, videos, PDFs, etc.
+Control a Chrome browser to perform research
+Plot, clean, and analyze large datasets
+...etc.
+
+
+https://github.com/OpenInterpreter/open-interpreter
 
 
 
