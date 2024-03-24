@@ -1060,7 +1060,7 @@ This repository contains a curated list of awesome open source libraries that wi
   
   https://github.com/suno-ai/bark
 
-
+  https://app.suno.ai/
 
 
 # Innovations to be Fueled by Generative AI
