@@ -1050,6 +1050,18 @@ This repository contains a curated list of awesome open source libraries that wi
 ![1686648771444](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/78b8060b-849c-48bf-80a4-1b90b8e70637)
 
 
+# Tools
+
+* **🐶 Bark**
+
+🔊 Text-Prompted Generative Audio Model
+
+  https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing
+  
+  https://github.com/suno-ai/bark
+
+
+
 
 # Innovations to be Fueled by Generative AI
 
