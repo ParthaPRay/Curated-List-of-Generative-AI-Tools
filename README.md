@@ -706,6 +706,16 @@ Ragas provides you with the tools based on the latest research for evaluating LL
 
 
 
+# Router
+
+* **OpenRouter**
+
+ A unified interface for LLMs select more than 100 LLMs to router dynamically.
+ 
+  https://openrouter.ai/
+  
+
+
 
 # LLM Evaluation
 
