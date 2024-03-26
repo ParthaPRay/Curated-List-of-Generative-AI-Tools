@@ -707,12 +707,20 @@ Ragas provides you with the tools based on the latest research for evaluating LL
 
 
 
+# RAG Evaluation
+
+* **giskard**
+  
+ 🐢 Evaluation & Testing framework for LLMs and ML models
+
+ https://github.com/Giskard-AI/giskard
+
+ https://www.youtube.com/watch?v=ZPX3W77h_1E&ab_channel=Underfitted
 
 
 
 
-
-# Graph Realted Tools for Helping RAG or GRAPH RAG Tools
+# Graph Related Tools for Helping RAG or GRAPH RAG Tools
 
 * **graspologic**
 
