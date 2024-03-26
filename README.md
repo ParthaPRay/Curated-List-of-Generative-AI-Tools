@@ -750,6 +750,22 @@ Ragas provides you with the tools based on the latest research for evaluating LL
 
 # Web & Desktop Apps
 
+* **RTutor.ai**
+
+   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/9e63dd47-567c-435c-95dc-d227b615e352)
+
+
+  RTutor is an AI-based app that can quickly generate and test R code. Powered by API calls to OpenAI's ChatGPT or other models, RTutor translates natural languages into R scripts, which are then executed within the Shiny platform. An R Markdown source file and HTML report can be generated.
+  
+  https://rtutor.ai/
+
+  https://github.com/gexijin/RTutor
+
+  https://www.youtube.com/watch?v=a-bZW26nK9k&feature=youtu.be
+
+  https://www.youtube.com/watch?v=tPZWXEQYY7w&ab_channel=Dr.Asif%27sMol.Biology
+
+  
 
 * **taipy**
 
