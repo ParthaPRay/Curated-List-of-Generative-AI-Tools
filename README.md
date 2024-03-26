@@ -707,11 +707,21 @@ Ragas provides you with the tools based on the latest research for evaluating LL
 
 
 
+# LLM Evaluation
+
+* **garak**
+  LLM vulnerability scanner. Generative AI Red-teaming & Assessment Kit.
+  
+  https://github.com/leondz/garak
+
+
+
+
 # RAG Evaluation
 
 * **giskard**
   
- 🐢 Evaluation & Testing framework for LLMs and ML models
+ 🐢 Evaluation & Testing framework for LLMs and ML models.
 
  https://github.com/Giskard-AI/giskard
 
