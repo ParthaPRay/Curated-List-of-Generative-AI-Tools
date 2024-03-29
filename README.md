@@ -3,6 +3,17 @@ This repo contains the curated list of tools for generative AI
 
 # Tools
 
+* **LitGPT**
+
+⚡ LitGPT is a hackable implementation of state-of-the-art open-source large language models released under the Apache 2.0 license.
+
+https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md
+
+**Zero to LitGPT: Getting Started with Pretraining, Finetuning, and Using LLMs**
+
+https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md
+
+
 * All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows **txtai**
   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/5472b5ce-3c8a-43c3-b09b-0e3da637b35c)
   
