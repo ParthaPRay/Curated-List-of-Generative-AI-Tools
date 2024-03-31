@@ -792,6 +792,11 @@ Ragas provides you with the tools based on the latest research for evaluating LL
    https://github.com/confident-ai/deepeval
 
 
+* **ollama-benchmark**
+
+   LLM Benchmark for Throughput via Ollama (Local LLMs)
+
+  https://github.com/aidatatools/ollama-benchmark
 
 
 
