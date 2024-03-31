@@ -622,6 +622,13 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
+* **quanto**
+
+  A pytorch Quantization Toolkit
+
+  https://github.com/huggingface/quanto
+
+
 
 * **iter**
 
@@ -674,7 +681,7 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
-
+  
 
 * **OpenSora**
 
@@ -713,6 +720,30 @@ One concrete illustration of how Dramatron can be utilised by creative communiti
 Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines. RAG denotes a class of LLM applications that use external data to augment the LLM’s context. There are existing tools and frameworks that help you build these pipelines but evaluating it and quantifying your pipeline performance can be hard. This is where Ragas (RAG Assessment) comes in.
 
 Ragas provides you with the tools based on the latest research for evaluating LLM-generated text to give you insights about your RAG pipeline. Ragas can be integrated with your CI/CD to provide continuous checks to ensure performance.
+
+
+
+
+
+* **OpenVINO**
+
+  OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
+
+  https://github.com/openvinotoolkit/openvino
+  
+  https://docs.openvino.ai/
+
+
+
+
+* **Optimum-Intel**
+  
+  Optimum Intel: Accelerate inference with Intel optimization tools
+
+  Optimum Intel is the interface between the 🤗 Transformers and Diffusers libraries and the different tools and libraries provided by Intel to accelerate end-to-end pipelines on Intel architectures.
+
+  https://github.com/huggingface/optimum-intel
+
 
 
 
