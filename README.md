@@ -778,6 +778,14 @@ Ragas provides you with the tools based on the latest research for evaluating LL
   https://github.com/leondz/garak
 
 
+* **deepeval**
+
+   The LLM Evaluation Framework
+
+   https://github.com/confident-ai/deepeval
+
+
+
 
 
 # RAG Evaluation
