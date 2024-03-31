@@ -630,6 +630,17 @@ https://github.com/Itachi-Uchiha581/Auto-Data
 
 
 
+* **pi-genai-stack**
+  
+  Run 🦙 @ollama and 🐬 TinyDolphin, 🦙 TinyLlama and other small LLMs on a Raspberry Pi 5 with @docker #Compose
+
+  The stack provides development environments to experiment with Ollama and 🦜🔗 Lanchain without installing anything:
+  - Python dev environment (available)
+  - JavaScript dev environment (available)
+
+  https://github.com/bots-garden/pi-genai-stack
+
+
 * **iter**
 
   🔁 Code iteration tool running on Groq
