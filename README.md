@@ -220,6 +220,13 @@ https://twitter.com/karpathy/status/1723140519554105733
   https://github.com/FlowiseAI/Flowise
 
 
+* **BitNet**
+
+  Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
+
+  https://github.com/kyegomez/BitNet
+  
+
 
 * **Ray** is an open-source unified compute framework that makes it easy to scale AI and Python workloads — from reinforcement learning to deep learning to tuning, and model serving.
 
