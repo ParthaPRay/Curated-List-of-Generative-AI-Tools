@@ -449,6 +449,23 @@ https://github.com/OpenInterpreter/open-interpreter
   https://kaiber.ai/
 
 
+
+
+* **AutoQuant**
+  
+ It allows you to quantize your models in five different formats:
+
+- GGUF: perfect for inference on CPUs (and LM Studio)
+- GPTQ/EXL2: fast inference on GPUs
+- AWQ: super fast inference on GPUs with vLLM (https://github.com/vllm-project/vllm)
+- HQQ: extreme quantization with decent 2-bit and 3-bit models
+
+https://github.com/qwopqwop200/AutoQuant
+  https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing
+  https://colab.research.google.com/drive/1P646NEg33BZy4BfLDNpTz0V0lwIU3CHu
+
+  
+
 * **Krea AI**
 
   Real-Time AI Art Generation
