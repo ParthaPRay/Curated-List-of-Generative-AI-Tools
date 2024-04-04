@@ -423,7 +423,12 @@ https://github.com/OpenInterpreter/open-interpreter
   https://www.secinsights.ai/
   
 
+* **AutoTrain Advanced**
 
+    AutoTrain Advanced: faster and easier training and deployments of state-of-the-art machine learning models. AutoTrain Advanced is a no-code solution that allows you to train machine learning models in just a few clicks. Please note that you must upload data in correct format for project to be created. For help regarding proper data format and pricing, check out the documentation.https://github.com/huggingface/autotrain-advanced
+
+  https://github.com/huggingface/autotrain-advanced
+  
 * **Ludwig**
 
   Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
