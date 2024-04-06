@@ -268,6 +268,20 @@ https://twitter.com/karpathy/status/1723140519554105733
 
 
 
+* **RAGFlow**
+
+ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data.
+ 
+    ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/48642478-45b2-4913-a7de-020583419f0a)
+
+
+     ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/6b1c533d-4700-431a-a9ed-0abb6e90af0a)
+
+     ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/0d358ab1-8694-49d2-af0c-3eab0358e344)
+
+
+
+    https://github.com/infiniflow/ragflow?tab=readme-ov-file
 
 
 
