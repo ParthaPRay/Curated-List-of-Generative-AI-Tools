@@ -1030,6 +1030,21 @@ Architecture:
 ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/e8f062fa-b4d4-474d-926c-688cc404c6ae)
 Reference: https://www.youtube.com/watch?v=MKnj-qsWNrw&ab_channel=FahdMirza
 
+* **Mediapipe**
+
+   By Gpoogle, MediaPipe Solutions provides a suite of libraries and tools for you to quickly apply artificial intelligence (AI) and machine learning (ML) techniques in your applications. You can plug these solutions into your applications immediately, customize them to your needs, and use them across multiple development platforms. MediaPipe Solutions is part of the MediaPipe open source project, so you can further customize the solutions code to meet your application needs.
+
+
+   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/752a0347-026b-433e-a398-72cd5798a32a)
+
+  The MediaPipe Solutions suite includes the following:
+   
+   https://developers.google.com/mediapipe/solutions/genai/llm_inference
+
+   LLm Inference Gguide: https://mediapipe-studio.webapps.google.com/demo/llm_inference
+
+   https://www.youtube.com/watch?v=hQQ8KuhXcwU&ab_channel=AIAnytime
+
 
 * **AnythingLLM**
 
