@@ -268,6 +268,15 @@ https://twitter.com/karpathy/status/1723140519554105733
 
 
 
+* **ORPO**
+
+  ORPO: Monolithic Preference Optimization without Reference Model
+  
+  https://github.com/xfactlab/orpo
+
+  https://arxiv.org/abs/2403.07691
+  
+   
 * **RAGFlow**
 
  RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data.
@@ -363,7 +372,16 @@ Plot, clean, and analyze large datasets
 https://github.com/OpenInterpreter/open-interpreter
 
 
+* **AutoCodeRover**
 
+   AutoCodeRover is a fully automated approach for resolving GitHub issues (bug fixing and feature addition) where LLMs are combined with analysis and debugging capabilities to prioritize patch locations ultimately leading to a patch.
+
+   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/f23aabb0-dff8-4e2b-9ea5-307fac53453d)
+
+  
+  https://github.com/nus-apr/auto-code-rover
+
+  
 * The **MetaVoice-1B** is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech). It has been built with the following priorities:
 
       Emotional speech rhythm and tone in English. No hallucinations.
