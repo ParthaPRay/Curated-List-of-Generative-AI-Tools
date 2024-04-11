@@ -852,6 +852,13 @@ Ragas provides you with the tools based on the latest research for evaluating LL
 
   https://github.com/aidatatools/ollama-benchmark
 
+* **LightEval**
+
+  LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
+
+  A lightweight framework for LLM evaluation.
+
+  https://github.com/huggingface/lighteval
 
 
 # RAG Evaluation
