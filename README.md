@@ -318,6 +318,11 @@ https://twitter.com/karpathy/status/1723140519554105733
   https://allenai.org/olmo
 
 
+* **Jina.ai**
+
+  Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai. Experience improved output for your agent and RAG systems at no cost.
+
+  https://jina.ai/reader/
 
 * **HyperwriteI**
   Self-Operating Computer, An open-source framework to enable multimodal models to operate a computer.
