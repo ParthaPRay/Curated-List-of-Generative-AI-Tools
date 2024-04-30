@@ -895,6 +895,15 @@ Ragas provides you with the tools based on the latest research for evaluating LL
  https://www.youtube.com/watch?v=ZPX3W77h_1E&ab_channel=Underfitted
 
 
+* **RAGAS**
+
+Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
+
+https://github.com/explodinggradients/ragas
+
+
+
+
 
 
 # Graph Related Tools for Helping RAG or GRAPH RAG Tools
