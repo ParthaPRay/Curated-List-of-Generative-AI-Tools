@@ -294,6 +294,10 @@ https://twitter.com/karpathy/status/1723140519554105733
 
 
 
+* **Trustworthy Language Model (TLM)**
+  
+   https://tlm.cleanlab.ai/
+
  * **Jan AI**
 
    Open-source ChatGPT alternative that runs 100% offline on your computer.
@@ -902,10 +906,22 @@ Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 https://github.com/explodinggradients/ragas
 
 
+* **MIRAGE**
+
+ Medical Information Retrieval-Augmented Generation Evaluation) Benchmark! This repository contains a comprehensive dataset and benchmark results aimed at evaluating Retrieval-Augmented Generation (RAG) systems for medical question answering (QA). We use the MedRAG toolkit to evaluate existing solutions of various components in RAG on MIRAGE
+  
+  https://github.com/Teddy-XiongGZ/MIRAGE
+
+
+* **fastRAG**
+
+ Efficient Retrieval Augmentation and Generation Framework. fastRAG is a research framework for efficient and optimized retrieval augmented generative pipelines, incorporating state-of-the-art LLMs and Information Retrieval. fastRAG is designed to empower researchers and developers with a comprehensive tool-set for advancing retrieval augmented generation.
+
+ https://github.com/IntelLabs/fastRAG
 
 
 
-
+ 
 # Graph Related Tools for Helping RAG or GRAPH RAG Tools
 
 * **graspologic**
