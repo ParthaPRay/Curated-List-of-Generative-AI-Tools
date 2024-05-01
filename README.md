@@ -267,6 +267,15 @@ https://twitter.com/karpathy/status/1723140519554105733
   https://github.com/run-llama/llama-lab
 
 
+* **SWE-Agent**
+
+  SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+
+   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/da81edb0-c52f-45ff-89a4-c7ef72bcfab2)
+
+
+https://github.com/princeton-nlp/SWE-agent
+  
 
 * **ORPO**
 
