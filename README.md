@@ -531,6 +531,11 @@ https://github.com/OpenInterpreter/open-interpreter
 
 
 
+* **VectorShift**
+  The No-Code. AI automations platform. An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
+  
+  https://vectorshift.ai/
+  
 
 * **AutoQuant**
   
