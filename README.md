@@ -604,9 +604,9 @@ https://github.com/qwopqwop200/AutoQuant
   Old repo Notused now: Transformer related optimization, including BERT, GPT: https://github.com/NVIDIA/FasterTransformer
 
 
-* **Language Model Evaluation Harness**
+* **eleuther**
 
-  A framework for few-shot evaluation of language models.
+  A framework for few-shot evaluation of language models. Language Model Evaluation Harness evaluation. 
   
   https://github.com/EleutherAI/lm-evaluation-harness
 
