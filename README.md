@@ -149,6 +149,12 @@ https://twitter.com/karpathy/status/1723140519554105733
 
 
 
+  * **LLM360**
+
+    Evaluation and analysis code for LLM360
+
+     https://github.com/LLM360/Analysis360
+    
   **LangChain Templates** is a collection of easily deployable reference architectures for a wide variety of tasks.
   
   https://python.langchain.com/docs/templates
