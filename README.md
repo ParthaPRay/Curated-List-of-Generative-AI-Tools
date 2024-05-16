@@ -910,7 +910,7 @@ Ragas provides you with the tools based on the latest research for evaluating LL
   
   https://github.com/EleutherAI/lm-evaluation-harness
 
-  * **LLM360**
+* **LLM360**
 
     Evaluation and analysis code for LLM360
 
