@@ -149,11 +149,7 @@ https://twitter.com/karpathy/status/1723140519554105733
 
 
 
-  * **LLM360**
 
-    Evaluation and analysis code for LLM360
-
-     https://github.com/LLM360/Analysis360
     
   **LangChain Templates** is a collection of easily deployable reference architectures for a wide variety of tasks.
   
@@ -610,14 +606,7 @@ https://github.com/qwopqwop200/AutoQuant
   Old repo Notused now: Transformer related optimization, including BERT, GPT: https://github.com/NVIDIA/FasterTransformer
 
 
-* **eleuther**
 
-  A framework for few-shot evaluation of language models. Language Model Evaluation Harness evaluation. 
-  
-  https://github.com/EleutherAI/lm-evaluation-harness
-
-      https://www.eleuther.ai/
-      https://www.eleuther.ai/releases
 
 
 * **text-generation-webui**
@@ -914,6 +903,19 @@ Ragas provides you with the tools based on the latest research for evaluating LL
   A lightweight framework for LLM evaluation.
 
   https://github.com/huggingface/lighteval
+
+* * **eleuther**
+
+  A framework for few-shot evaluation of language models. Language Model Evaluation Harness evaluation. 
+  
+  https://github.com/EleutherAI/lm-evaluation-harness
+
+  * **LLM360**
+
+    Evaluation and analysis code for LLM360
+
+     https://github.com/LLM360/Analysis360
+
 
 
 # RAG Evaluation
