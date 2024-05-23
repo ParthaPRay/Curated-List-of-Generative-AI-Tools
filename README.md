@@ -72,8 +72,17 @@ https://twitter.com/karpathy/status/1723140519554105733
   https://github.com/phidatahq/phidata
 
   https://docs.phidata.com/
+
+* **CrewAI**
+  Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
   
-  
+  https://github.com/joaomdmoura/crewAI
+
+  * **AgentOps**
+
+    Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen.
+
+    https://github.com/AgentOps-AI/agentops
  
  * **Replicate**
 
