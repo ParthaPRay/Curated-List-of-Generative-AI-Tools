@@ -149,7 +149,7 @@ https://twitter.com/karpathy/status/1723140519554105733
 
 
 
-
+   
     
   **LangChain Templates** is a collection of easily deployable reference architectures for a wide variety of tasks.
   
@@ -187,6 +187,12 @@ https://twitter.com/karpathy/status/1723140519554105733
   
   https://bentoml.com/
 
+
+* **agency-swarm**
+
+  An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.
+
+  https://github.com/VRSEN/agency-swarm
 
 * **moondream** a  tiny vision language model that kicks ass and runs anywhere
 
