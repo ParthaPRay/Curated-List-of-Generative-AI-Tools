@@ -327,6 +327,11 @@ https://github.com/princeton-nlp/SWE-agent
     https://github.com/infiniflow/ragflow?tab=readme-ov-file
 
 
+* **Perplexcia**
+
+  Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI.
+  
+  https://github.com/ItzCrazyKns/Perplexica
 
 * **Trustworthy Language Model (TLM)**
   
