@@ -37,6 +37,18 @@ https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md
 
   https://github.com/microsoft/TaskWeaver
 
+
+* **pyrit**
+
+  Python Risk Identification Tool for generative AI (PyRIT)
+
+   It is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
+
+   https://github.com/Azure/PyRIT 
+
+  
+
+
 * **LLM OS**
 
 
