@@ -5,9 +5,17 @@ This repo contains the curated list of tools for generative AI
 
 * **LitGPT**
 
+Pretrain, finetune, evaluate, and deploy 20+ LLMs on your own data.
+
+LitGPT is a command-line tool designed to easily finetune, pretrain, evaluate, and deploy 20+ LLMs on your own data. It features highly-optimized training recipes for the world's most powerful open-source large language models (LLMs).
+
+ ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/55f4aaa9-ec19-4775-a15c-e42ad42e3417)
+
 ⚡ LitGPT is a hackable implementation of state-of-the-art open-source large language models released under the Apache 2.0 license.
 
-https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md
+https://github.com/Lightning-AI/litgpt
+
+ https://www.youtube.com/watch?v=PDuzbj5MhoQ&t=485s&ab_channel=FahdMirza
 
 **Zero to LitGPT: Getting Started with Pretraining, Finetuning, and Using LLMs**
 
