@@ -185,9 +185,16 @@ https://twitter.com/karpathy/status/1723140519554105733
 
   https://python.langchain.com/docs/expression_language/cookbook
 
-  
 
-* **MLFlow** Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform. It is an open source framework for tracking ML experiments, packaging ML code for training pipelines, and capturing models logged from experiments. It enables data scientists to iterate quickly during model development while keeping their experiments and training pipelines reproducible.
+
+  * **setfit**
+
+    Efficient few-shot learning with Sentence Transformers
+
+    https://github.com/huggingface/setfit
+
+
+  * **MLFlow** Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform. It is an open source framework for tracking ML experiments, packaging ML code for training pipelines, and capturing models logged from experiments. It enables data scientists to iterate quickly during model development while keeping their experiments and training pipelines reproducible.
 
   https://github.com/mlflow/mlflow
 
