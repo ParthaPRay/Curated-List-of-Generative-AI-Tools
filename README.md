@@ -158,7 +158,14 @@ https://twitter.com/karpathy/status/1723140519554105733
 
 
 
-   
+ * **Ollama App**
+
+   Use Ollama Models on Phone - Ollama Client App
+
+    https://www.youtube.com/watch?v=S_znZecb8uk&t=33s&ab_channel=FahdMirza
+
+    https://github.com/JHubi1/ollama-app
+  
     
   **LangChain Templates** is a collection of easily deployable reference architectures for a wide variety of tasks.
   
