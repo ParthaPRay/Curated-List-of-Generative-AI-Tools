@@ -38,6 +38,19 @@ https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md
   https://github.com/microsoft/TaskWeaver
 
 
+
+* **openagi**
+
+   ![image](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools/assets/1689639/d54d50f8-04c1-4308-8aa1-7140826cd9b8)
+
+ Making the development of autonomous human-like agents accessible to all.
+
+ OpenAGI aims to make human-like agents accessible to everyone, thereby paving the way towards open agents and, eventually, AGI for everyone. 
+  https://github.com/aiplanethub/openagi/
+
+  https://openagi.aiplanet.com/
+
+
 * **pyrit**
 
   Python Risk Identification Tool for generative AI (PyRIT)
