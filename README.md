@@ -125,6 +125,12 @@ https://twitter.com/karpathy/status/1723140519554105733
 
     https://github.com/replicate/replicate-python
 
+ * **igly.ai**
+
+    AI image editing platform for background removal, inpainting, generative fill, and upscaling.
+
+    https://igly.ai
+
  * **Open Interpreter** lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running 
   $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities:  Create and edit photos, videos, PDFs, etc., Control a 
   Chrome browser to perform research,  Plot, clean, and analyze large datasets.
