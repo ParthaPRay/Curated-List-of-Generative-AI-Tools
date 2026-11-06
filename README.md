@@ -1650,3 +1650,5 @@ As of December, 2023, we show the most used tool sets in generative AI developme
 15. https://www.insightpartners.com/ideas/llmops-mlops-what-you-need-to-know/
 16. https://deci.ai/blog/retrieval-augmented-generation-using-langchain/
 17. https://www.linkedin.com/pulse/impact-llms-evolving-data-ml-stack-apoorva-pandhi-gnxcc/
+
+- **[OneMira C1](https://onemira.com/products/c1)** - Standalone local AI voice recorder with automatic speaker ID, zero-cloud privacy ($0/month), and structured Markdown/OKF Wiki output.
